@@ -6,8 +6,8 @@ Topics include MYSQL, Tableau, Python, R, Machine Learning and Deep Learning. Da
 to prepare students for applying data analytic tools in their domains of interest. After this course students should have basic understanding 
 of programming and be ready to dive into the world of Data Science. 
 
-# Course 1: R for Data Science 
+## Course 1: R 
 
-# Course 2: Python 
+## Course 2: Python 
 
-# Course 3: Data Technologies 
+## Course 3: Data Technologies 
