@@ -34,4 +34,5 @@ Session 4 covers the advacened statistical methods.
 ##### Case 2: Sportify 
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
-##### Case 5: SABIC Specialties 
+##### Case 5: Givaudan 
+##### Case 6: SABIC Specialties 
