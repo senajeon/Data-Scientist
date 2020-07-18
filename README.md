@@ -4,12 +4,12 @@ This repository contains all the links to the Google Colab study notebooks, slid
 Program taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
 Topics include data manipulation, data visualization and data analytics (Machine Learning). Data Analytics cases are designed 
 to prepare students for applying data analytic tools in their domains of interest. After this course students will have good understanding 
-of programming(SQL, Tableau, Python, R) and be ready to dive into the world of Data Science. The slides for the overview of the program can be downloaded here.
+of programming(SQL, Tableau, Python, R) and be ready to dive into the world of Data Science. 
 
 ## Course 1: R 
 
 ##### Session 1 - 15 June
-Session 1 covers the overview of the data planning, data analysis process and its applicaions to difference industries. The slides for the introduction of the R can be downloaded here. 
+Session 1 covers the overview of the data planning, data analysis process and its applicaions to difference industries. The slides for this lecture is here. 
 
 ##### Session 2 - 22 June
 Session 2 covers the installation of RStudio, syntax, data types, data structure (Vectors, Matrices, Array, List, Data frames) 
