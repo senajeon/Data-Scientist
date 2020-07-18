@@ -28,3 +28,10 @@ Session 4 covers the advacened statistical methods.
 
 ## Course 3: Data Technologies 
 
+## Projects : Small data analysis 
+
+##### Case 1: EY 
+##### Case 2: Sportify 
+##### Case 3: Fedex 
+##### Case 4: TomTom 
+##### Case 5: SABIC Specialties 
