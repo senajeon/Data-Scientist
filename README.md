@@ -9,7 +9,7 @@ of programming(SQL, Tableau, Python, R) and be ready to dive into the world of D
 ## Course 1: R 
 
 ##### Session 1 - 15 June
-Session 1 covers the overview of the data planning, data analysis process and its applicaions to different industries. The slides for this lecture.
+Session 1 covers the overview of the data planning, data analysis process and its applicaions to different industries. The slides for this lecture. https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
 
 ##### Session 2 - 22 June
 Session 2 covers the RStudio installation, syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) 
