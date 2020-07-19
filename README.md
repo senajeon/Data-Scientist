@@ -12,16 +12,16 @@ of programming(SQL, Tableau, Python, R) and be ready to dive into the world of D
 data planning, data analysis process, the 4th industrial revolution, R applicaions to different industries 
 
 ##### Session 2 - 22 June
-RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) [Review note](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
+RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames). [Review note](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3 - 29 June
-functions, packages and the apply family
+functions, packages and the apply family.
 
 ##### Session 4 - 6 July
-ggplot 2 packages and R visualization(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
+ggplot 2 packages and R visualization(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map).
  
 ##### Session 5 - 13 July 
-advacened statistical methods
+advacened statistical methods.
 
 
 ## Course 2: Python 
