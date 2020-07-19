@@ -9,19 +9,19 @@ of programming(SQL, Tableau, Python, R) and be ready to dive into the world of D
 ## Course 1: R 
 
 ##### Session 1 - 15 June
-Session 1 covers the overview of the data planning, data analysis process and its applicaions to different industries. The slides for this lecture.
+data planning, data analysis process and its applicaions to different industries 
 
 ##### Session 2 - 22 June
-Session 2 covers the RStudio installation, syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) 
+RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) 
 
 ##### Session 3 - 29 June
-Session 3 covers functions, packages and the apply family.
+functions, packages and the apply family
 
 ##### Session 4 - 6 July
-Session 4 covers the ggplot 2 packages and visualization - pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map 
+ggplot 2 packages and R visualization(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
  
 ##### Session 5 - 13 July 
-Session 4 covers the advacened statistical methods. 
+advacened statistical methods
 
 
 ## Course 2: Python 
