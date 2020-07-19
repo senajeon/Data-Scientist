@@ -9,7 +9,7 @@ of programming(SQL, Tableau, Python, R) and be ready to dive into the world of D
 ## Course 1: R 
 
 ##### Session 1 - 15 June
-data planning, data analysis process and its applicaions to different industries 
+data planning, data analysis process, the 4th industrial revolution, R applicaions to different industries 
 
 ##### Session 2 - 22 June
 RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) 
