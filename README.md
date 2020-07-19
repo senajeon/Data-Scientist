@@ -1,6 +1,6 @@
 # Data-Science-Program 
 
-This repository contains all the links to the Google Colab study notebooks, slides, projects and other resources used in the 6-month full-time Data Science 
+This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month full-time Data Science 
 Program taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
 Topics include data manipulation, data visualization and data analytics (Machine Learning). Data Analytics cases are designed 
 to prepare students for applying data analytic tools in their domains of interest. After this course students will have good understanding 
