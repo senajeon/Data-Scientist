@@ -15,10 +15,10 @@ data planning, data analysis process, the 4th industrial revolution, R applicaio
 RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames). [Code review notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3 - 29 June
-functions, packages and the apply family.
+functions (if, for, while, repeat), packages and the apply family.
 
 ##### Session 4 - 6 July
-ggplot 2 packages and R visualization(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map).
+ggplot 2 packages and R visualization-pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map.
  
 ##### Session 5 - 13 July 
 advacened statistical methods.
