@@ -12,7 +12,7 @@ of programming(SQL, Tableau, Python, R) and be ready to dive into the world of D
 data planning, data analysis process, the 4th industrial revolution, R applicaions to different industries 
 
 ##### Session 2 - 22 June
-RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) 
+RStudio installation, R syntax, data types and data structure (Vectors, Matrices, Array, List, Data frames) [review notebook](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3 - 29 June
 functions, packages and the apply family
