@@ -31,12 +31,12 @@ advacened statistical methods.
 ## Projects : Small data analysis 
 
 ##### Case 1: EY 
-[TransportationEY case](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+[R for TransportationEY case](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 ##### Case 2: Sportify 
-[Cognizant - Sportify case](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+[R for Cognizant - Sportify case](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
-##### Case 3: Kaggle challenges: [Titanic, Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+##### Case 3: Kaggle challenges: [R for Titanic, Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
 ##### Case 5: Givaudan 
