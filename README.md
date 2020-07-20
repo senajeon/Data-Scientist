@@ -51,6 +51,6 @@ Statistics 2 - Regression analysis, ANOVA
 [R for Cognizant - Sportify case](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 ##### Case 3: Fedex 
-##### Case 4: TomTom 
-##### Case 5: Givaudan 
+##### Case 4: Givaudan
+##### Case 5: TomTom
 ##### Case 6: SABIC Specialties 
