@@ -31,7 +31,7 @@ advacened statistical methods.
 ## Projects : Small data analysis 
 
 ##### Case 1: EY 
-[R for TransportationEY case](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+[R for TransportEY case](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 ##### Case 2: Sportify 
 [R for Cognizant - Sportify case](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
