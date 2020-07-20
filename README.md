@@ -14,7 +14,7 @@ Data structure (Vectors, Matrices, Array, List, Data frames).
 [My code practice notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3 - 29 June
-The apply family(apply, lapply, sapply, rep, mapply). [My code practice notebok for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+The apply family(apply, lapply, sapply, rep, mapply). [My code practice notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
 ##### Session 4 - 6 July
 Visualizaion:ggplot2 (pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
