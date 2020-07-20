@@ -25,9 +25,18 @@ Statistics 1 - data quality check (Sampling, Contingeny Table, Chi Squared Test,
 ##### Session 6 - 20 July 
 Statistics 2 - Regression analysis, ANOVA  
 
+Kaggle challenges
+[R for Titanic, Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+
+
+
 ## Course 2: Python 
 
+
+
 ## Course 3: Data Technologies 
+
+
 
 ## Projects 
 
@@ -40,9 +49,6 @@ Statistics 2 - Regression analysis, ANOVA
 
 ##### Case 2: Sportify 
 [R for Cognizant - Sportify case](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
-
-##### Case 3: Kaggle challenges
-[R for Titanic, Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
