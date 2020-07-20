@@ -30,7 +30,12 @@ advacened statistical methods.
 
 ## Projects : Small data analysis 
 
-##### Case 1: EY 
+##### Case 1: EY )
+
+
+[EY case- analytics presentation](file:///C:/Users/Playdata/Downloads/EY%20case%20-%20Analytics%20Presentation.pdf)
+
+
 ##### Case 2: Sportify 
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
