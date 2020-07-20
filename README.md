@@ -59,7 +59,8 @@ Statistics 2 - Regression analysis, ANOVA
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
 ##### Case 2: Sportify 
-[R for Cognizant - Sportify case 1](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+[R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 ##### Case 3: Fedex 
