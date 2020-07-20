@@ -29,11 +29,13 @@ Statistics 2 - Regression analysis, ANOVA
 
 ## Course 3: Data Technologies 
 
-## Projects : Small data analysis 
+## Projects 
 
 ##### Case 1: EY 
 [R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
+
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+
 [TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
 ##### Case 2: Sportify 
