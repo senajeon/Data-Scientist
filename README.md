@@ -31,11 +31,11 @@ advacened statistical methods.
 ## Projects : Small data analysis 
 
 ##### Case 1: EY 
-[EY case- analytics presentation](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+[Code for EY transportation case](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 ##### Case 2: Sportify 
 
-##### Case 3: Kaggle challenges: [Titanic, Housing Prices Competition](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+##### Case 3: Kaggle challenges: [Code for Titanic, Housing Prices Competition](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
 ##### Case 5: Givaudan 
