@@ -9,23 +9,23 @@ of programming(SQL, Tableau, Python, R) and be ready to dive into the world of D
 ## Course 1: R 
 
 ##### Session 1 - 15 June
-data planning, data analysis process, the 4th industrial revolution, R applicaions to different industries [Week 1 Lecture 1.](https://github.com/senajeon/Data-Science-School/blob/master/R%20week%201.pdf)
+data planning, data analysis process, the 4th industrial revolution, R applicaions to different industries 
 
 ##### Session 2 - 22 June
-RStudio installation, data structure (Vectors, Matrices, Array, List, Data frames). [Week 2 Lecture 2.](https://github.com/senajeon/Data-Science-School/blob/master/R%20week%202.pdf) 
+RStudio installation, data structure (Vectors, Matrices, Array, List, Data frames). 
 [My Code review notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3 - 29 June
-functions, packages and the apply family(apply, lapply, sapply, rep, mapply). [Week 3 Lecture 3.](https://github.com/senajeon/Data-Science-School/blob/master/R%20week%203.pdf)[My Code review notebok for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+functions, packages and the apply family(apply, lapply, sapply, rep, mapply). [My Code review notebok for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
 ##### Session 4 - 6 July
-ggplot 2 packages and R visualization-pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map. [Week 4 Lecture 4.](https://github.com/senajeon/Data-Science-School/blob/master/R%20week%204.pdf)
+ggplot 2 packages and R visualization-pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map. 
  
 ##### Session 5 - 13 July 
-advacened statistical methods. [Week 5 Lecture 5.](https://github.com/senajeon/Data-Science-School/blob/master/R%20week%205.pdf)
+advacened statistical methods. 
 
 ##### Session 6 - 20 July 
-[Week 6 Lecture 6.](https://github.com/senajeon/Data-Science-School/blob/master/R%20week%205.pdf)
+
 
 ## Course 2: Python 
 
