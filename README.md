@@ -1,31 +1,29 @@
 # Data-Science-Program 
 
-This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month full-time Data Science 
+This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month intensive full-time Data Science 
 Program taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
-Topics include data manipulation, data visualization and data analytics (Machine Learning). Data Analytics cases are designed 
-to prepare students for applying data analytic tools in their domains of interest. After this course students will have good understanding 
-of programming(SQL, Tableau, Python, R) and be ready to dive into the world of Data Science. 
+Topics include data manipulation, data visualization and data analytics (Machine Learning). 
 
 ## Course 1: R 
 
 ##### Session 1 - 15 June
-data planning, data analysis process, the 4th industrial revolution, R applicaions to different industries 
+Data analysis process  
 
 ##### Session 2 - 22 June
-RStudio installation, data structure (Vectors, Matrices, Array, List, Data frames). 
+Data structure (Vectors, Matrices, Array, List, Data frames). 
 [My Code review notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3 - 29 June
-functions, packages and the apply family(apply, lapply, sapply, rep, mapply). [My Code review notebok for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+The apply family(apply, lapply, sapply, rep, mapply). [My Code review notebok for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
 ##### Session 4 - 6 July
-ggplot 2 packages and R visualization-pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map. 
+Visualizaion:ggplot2 (pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
  
 ##### Session 5 - 13 July 
-advacened statistical methods. 
+Statistics 1 - data quality check (Sampling, Contingeny Table, Chi Squared Test, Correlation Analysis, Inference & Test) 
 
 ##### Session 6 - 20 July 
-
+Statistics 2 - Regression analysis, ANOVA  
 
 ## Course 2: Python 
 
@@ -34,7 +32,9 @@ advacened statistical methods.
 ## Projects : Small data analysis 
 
 ##### Case 1: EY 
-[R for TransportEY case](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+[R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
+[R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+[TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
 ##### Case 2: Sportify 
 [R for Cognizant - Sportify case](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
