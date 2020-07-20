@@ -17,7 +17,7 @@ Data structure (Vectors, Matrices, Array, List, Data frames).
 The apply family(apply, lapply, sapply, rep, mapply). [My code practice notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
 ##### Session 4 - 6 July
-Visualizaion:ggplot2 (pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
+Visualizaion(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
  
 ##### Session 5 - 13 July 
 Statistics 1 - data quality check (Sampling, Contingeny Table, Chi Squared Test, Correlation Analysis, Inference & Test) 
