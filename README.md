@@ -34,6 +34,8 @@ advacened statistical methods.
 [EY case- analytics presentation](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 ##### Case 2: Sportify 
+
+##### Case 3: Kaggle challenges: [Titanic, Housing price](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
 ##### Case 5: Givaudan 
