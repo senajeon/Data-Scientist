@@ -35,7 +35,7 @@ advacened statistical methods.
 
 ##### Case 2: Sportify 
 
-##### Case 3: Kaggle challenges: [Titanic, Housing price](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+##### Case 3: Kaggle challenges: [Titanic, Housing Prices Competition](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 ##### Case 3: Fedex 
 ##### Case 4: TomTom 
 ##### Case 5: Givaudan 
