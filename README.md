@@ -58,8 +58,7 @@ Statistics 2 - Regression analysis, ANOVA
 
 ## Course 3: Data Technologies 
 
-##### Session 1, 2
-Linux
+##### Session 1, 2: Linux
 
 ##### Session 3, 4
 
@@ -67,11 +66,9 @@ Linux
 
 ##### Session 7, 8 
 
-##### Session 9, 10
-MYSQL, Koa-server
+##### Session 9, 10: MYSQL, Koa-server
 
-##### Session 11
-NOSQL- elasticsearch 
+##### Session 11: NOSQL- Elasticsearch with Kibana (text analysis)
 
 ## Projects 
 
