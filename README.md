@@ -14,7 +14,7 @@ Topics include data manipulation, data visualization and data analytics (Machine
 
 ##### Session 4: Visualizaion & ggplot2
  
-##### Session 5: Statistics 1 - data quality check 
+##### Session 5: Statistics 1 - data quality testing methods
 
 ##### Session 6: Statistics 2 - Regression analysis, ANOVA  
 
