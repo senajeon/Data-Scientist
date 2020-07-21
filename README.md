@@ -6,24 +6,18 @@ Topics include data manipulation, data visualization and data analytics (Machine
 
 ## Course 1: R 
 
-##### Session 1 
-Data analysis process  
+##### Session 1: Data analysis process  
 
-##### Session 2 
-Data structure (Vectors, Matrices, Array, List, Data frames). 
+##### Session 2: Data structure (Vectors, Matrices, Array, List, Data frames). 
 [My code practice notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
-##### Session 3 
-The apply family(apply, lapply, sapply, rep, mapply). [My code practice notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+##### Session 3: The apply family(apply, lapply, sapply, rep, mapply). [My code practice notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
-##### Session 4 
-Visualizaion(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
+##### Session 4:Visualizaion(pie chart, bar graph, histogram, box plot, scatter plot, lattice, square titles, mosaic plot, area graph, map)
  
-##### Session 5 
-Statistics 1 - data quality check (Sampling, Contingeny Table, Chi Squared Test, Correlation Analysis, Inference & Test) 
+##### Session 5:Statistics 1 - data quality check (Sampling, Contingeny Table, Chi Squared Test, Correlation Analysis, Inference & Test) 
 
-##### Session 6  
-Statistics 2 - Regression analysis, ANOVA  
+##### Session 6: Statistics 2 - Regression analysis, ANOVA  
 
 ##### Exercises 
 [Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
