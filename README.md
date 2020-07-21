@@ -43,11 +43,35 @@ Statistics 2 - Regression analysis, ANOVA
 
 ## Course 2: Python 
 
+##### Session 1, 2
+
+##### Session 3, 4
+
+##### Session 5, 6
+
+##### Session 7, 8 
+
+##### Session 9
+
+##### Session 10
 
 
 ## Course 3: Data Technologies 
 
+##### Session 1, 2
+Linux
 
+##### Session 3, 4
+
+##### Session 5, 6
+
+##### Session 7, 8 
+
+##### Session 9, 10
+MYSQL, Koa-server
+
+##### Session 11
+NOSQL- elasticsearch 
 
 ## Projects 
 
