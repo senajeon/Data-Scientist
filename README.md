@@ -12,7 +12,7 @@ Topics include data manipulation, data visualization and data analytics (Machine
 
 ##### Session 3: The apply family(apply, lapply, sapply, rep, mapply). [My code notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
-##### Session 4: Visualizaion & ggplot2
+##### Session 4: Visualization & ggplot2
  
 ##### Session 5: Statistics 1 - data quality testing methods
 
