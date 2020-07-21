@@ -8,9 +8,9 @@ Topics include data manipulation, data visualization and data analytics (Machine
 
 ##### Session 1: Data analysis process  
 
-##### Session 2: Data structure (Vectors, Matrices, Array, List, Data frames). [My code practice notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
+##### Session 2: Data structure (Vectors, Matrices, Array, List, Data frames). [My code notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
-##### Session 3: The apply family(apply, lapply, sapply, rep, mapply). [My code practice notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+##### Session 3: The apply family(apply, lapply, sapply, rep, mapply). [My code notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
 ##### Session 4: Visualizaion & ggplot2
  
