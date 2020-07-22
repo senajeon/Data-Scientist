@@ -36,32 +36,32 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 2: Python 
 
-##### Session 1, 2
+##### Session 1, 2 Installation 
 
-##### Session 3, 4
+##### Session 3, 4 Data type
 
-##### Session 5, 6
+##### Session 5, 6 If, function
 
-##### Session 7, 8 
+##### Session 7, 8 Classe, module
 
-##### Session 9
+##### Session 9 Data structure & algorithm
 
-##### Session 10 pandas, numpy, matplot [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
+##### Session 10 Data analysis(pandas, numpy, matplotlib) [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
 
 
 ## Course 3: Data Technologies 
 
-##### Session 1, 2: Linux
+##### Session 1, 2: Linux, React, HTML5
 
-##### Session 3, 4
+##### Session 3, 4: Web crawling & scraping 1
 
-##### Session 5, 6
+##### Session 5, 6: Web crawling & scraping 2
 
-##### Session 7, 8 
+##### Session 7, 8: Exercises- weather data/subway data
 
-##### Session 9, 10: MYSQL, Koa-server
+##### Session 9, 10: Database(MYSQL, Koa-server)
 
-##### Session 11: NOSQL- Elasticsearch with Kibana (text analysis)
+##### Session 11: Database (NOSQL- elasticsearch/kibana)
 
 ## Projects 
 
