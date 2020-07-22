@@ -46,7 +46,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9
 
-##### Session 10
+##### Session 10 [clasa material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
 
 
 ## Course 3: Data Technologies 
