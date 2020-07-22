@@ -32,6 +32,17 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
+##### Case 1: EY- Regression
+[R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
+
+[R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+
+[R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
+
+##### Case 2: Sportify - Classification 
+[R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+
+[R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
 ## Course 2: Python 
@@ -48,6 +59,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 10 Data analysis(pandas, numpy, matplotlib) [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
 
+##### Case: Python for Finance
+
 
 ## Course 3: Data Technologies 
 
@@ -63,21 +76,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 11: Database (NOSQL- elasticsearch/kibana)
 
-## Projects 
 
-##### Case 1: EY 
-[R for TransportEY Regression case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
 
-[R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
-[R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-##### Case 2: Sportify 
-[R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
-[R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
-
-##### Case 3: Fedex 
-##### Case 4: Givaudan
-##### Case 5: TomTom
-##### Case 6: SABIC Specialties 
