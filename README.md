@@ -74,7 +74,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9, 10: Database(MYSQL, Koa-server)
 
-##### Session 11: Database (NOSQL- elasticsearch/kibana)
+##### Session 11: Database (NOSQL- elasticsearch/kibana) [reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
 
 
