@@ -51,11 +51,11 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 3, 4 Data type
 
-##### Session 5, 6 If, function
+##### Session 5, 6 If, function [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
 
 ##### Session 7, 8 Classe, module
 
-##### Session 9 Data structure & algorithm
+##### Session 9 Data structure & algorithm 
 
 ##### Session 10 Data analysis(pandas, numpy, matplotlib) [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
 
