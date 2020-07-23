@@ -19,15 +19,15 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 6: Statistics 2 - Regression analysis, ANOVA  
 
 ##### Exercises 
-[Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
+[a.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
 
-[Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
+[b.Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
 
-[Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
+[c.Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
 
-[Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
+[d.Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
 
-[Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
+[e.Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
 
 ##### Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
