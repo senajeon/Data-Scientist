@@ -10,6 +10,9 @@ CREATE TABLE sales
 PRIMARY KEY (purchase_number),
 FOREIGN KEY (customer_id) REFERENCES customers(customer_id) ON DELETE CASCADE 
 );
+-- A foreign key with ON DELETE CASCADE means that if a record in the parent table is deleted, 
+-- then the corresponding records in the child table will automatically be deleted. This is called a Cascade Delete in SQL Server.
+
 
 ALTER TABLE sales
 DROP FOREIGN KEY sales_ibfk_1;
@@ -34,7 +37,7 @@ UNIQUE KEY (email_address)
 DROP TABLE customer;
 
 CREATE TABLE customer (
-	customer_id INT,
+    customer_id INT,
     first_name VARCHAR(255),
     last_name VARCHAR(255),
     email_address VARCHAR(255),
