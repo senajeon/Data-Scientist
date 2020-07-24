@@ -25,7 +25,7 @@ DROP FOREIGN KEY sales_ibfk_1;
 
 USE sales;
 CREATE TABLE customer (
-	customer_id INT,
+    customer_id INT,
     first_name VARCHAR(255),
     last_name VARCHAR(255),
     email_address VARCHAR(255),
