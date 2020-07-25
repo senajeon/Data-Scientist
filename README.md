@@ -57,7 +57,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9 Data structure & algorithm 
 
-##### Session 10,11 Data analysis(pandas, numpy, matplotlib) [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
+##### Session 10,11 Data analysis(pandas, numpy, matplotlib), & re module [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
 
 ##### Case: Python for Finance
 
@@ -74,7 +74,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9, 10: Database(MYSQL, Koa-server)
 
-##### Session 11: Database (NOSQL- elasticsearch/kibana) [reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
+##### Session 11, 12: Database (NOSQL- elasticsearch/kibana) [reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
 
 
