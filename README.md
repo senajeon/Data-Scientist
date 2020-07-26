@@ -57,8 +57,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9 Data structure & algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
 
-##### Session 10,11 Data analysis(pandas, numpy, matplotlib), & re module [class material](https://colab.research.google.com/drive/1nlyTIMl0HBpL-EgX41bKzpiBqPxNLM1V#scrollTo=b9O7nYseGgDG)
-
+##### Session 10,11 Data analysis(pandas, numpy, matplotlib), & re module [My code notebook for session 10,11](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
 ##### Case: Python for Finance
 
 
