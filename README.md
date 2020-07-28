@@ -75,6 +75,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 11, 12: Database (NOSQL- elasticsearch/kibana): construct http requests and parse responses from elasticsearch for business analysis [reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
+##### Session 13, 14, 15:Database (NOSQL- elasticsearch/logstash)
 
 
 
