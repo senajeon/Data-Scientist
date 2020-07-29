@@ -58,6 +58,9 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 9 Data structure & algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
 
 ##### Session 10,11 Data analysis(pandas, numpy, matplotlib), & re module [My code notebook for session 10,11](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
+
+##### Session 12,13 [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
+
 ##### Case: Python for Finance
 
 
@@ -73,9 +76,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9, 10: Database(MYSQL, Koa-server)
 
-##### Session 11, 12: Database (NOSQL- elasticsearch/kibana): construct http requests and parse responses from elasticsearch for business analysis [reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
+##### Session 11, 12: Database (NOSQL- elasticsearch/kibana): construct http requests and parse responses from elasticsearch. [Reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
-##### Session 13, 14, 15:Database (NOSQL- elasticsearch/logstash)
+##### Session 13, 14, 15:Database (NOSQL- elasticsearch/logstash): data analysis case study 
 
 
 
