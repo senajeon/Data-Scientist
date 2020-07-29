@@ -51,7 +51,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 3, 4 Data type, variables, operations [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
 
-##### Session 5, 6 If, function [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
+##### Session 5, 6 Conditional statements, Functions [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
 
 ##### Session 7, 8 Class, module, packages [My code notebook for session 7,8](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
 
