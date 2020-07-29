@@ -47,9 +47,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 2: Python 
 
-##### Session 1, 2 Installation 
+##### Session 1, 2 Introduction & Installation 
 
-##### Session 3, 4 Data type
+##### Session 3, 4 Data type, variables, operations [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
 
 ##### Session 5, 6 If, function [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
 
