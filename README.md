@@ -49,13 +49,13 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1, 2 Introduction & Installation 
 
-##### Session 3, 4 Data type, variables, operations [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
+##### Session 3, 4 Data type, Variables, Operators [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
 
 ##### Session 5, 6 Conditional statements, Functions [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
 
-##### Session 7, 8 Class, module, packages [My code notebook for session 7,8](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
+##### Session 7, 8 Class, Module, Packages [My code notebook for session 7,8](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
 
-##### Session 9 Data structure & algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
+##### Session 9 Data structure & Algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
 
 ##### Session 10,11 Data analysis 1 (pandas, numpy, matplotlib), & regular expressions [My code notebook for session 10,11](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
 
