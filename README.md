@@ -63,11 +63,17 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Case: Python for Finance
 [Rates of Return](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+
 [Investment Risk Measurement]
+
 [Financial Analysis - Regressions]
+
 [Markowitz Portfolio Optimization]
+
 [The Capital Asset Pricing Model]
+
 [Multivariate Regression Analysis]
+
 [Monte Carlo Simulations Analayis] 
 
 ## Course 3: Data Technologies 
