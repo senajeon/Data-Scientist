@@ -62,7 +62,13 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 12,13 Data cleaning & analysis [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
 
 ##### Case: Python for Finance
-
+[Rates of Return](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+[Investment Risk Measurement]
+[Financial Analysis - Regressions]
+[Markowitz Portfolio Optimization]
+[The Capital Asset Pricing Model]
+[Multivariate Regression Analysis]
+[Monte Carlo Simulations Analayis] 
 
 ## Course 3: Data Technologies 
 
