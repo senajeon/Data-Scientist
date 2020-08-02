@@ -62,7 +62,7 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 12,13 Data cleaning & analysis [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
 
 ##### Case 1: Python for Finance
-[Importing stock prices from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
+[Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
 
 [Rates of Return](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
