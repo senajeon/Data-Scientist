@@ -18,6 +18,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 6: Statistics 2 - Regression analysis, ANOVA  
 
+##### Session 7: Machine Learning - Decision Tree
+
 ##### Exercises 
 [a.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
 
@@ -61,6 +63,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 12,13 Data cleaning & analysis [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
 
+##### Session 14, 15 Forecasting [My code notebook for session 14, 15](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
+
 ##### Case 1: Python for Finance
 [Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
 
@@ -92,11 +96,13 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 7, 8: Exercises- weather data/subway data
 
-##### Session 9, 10: Database(MYSQL, Koa-server)
+##### Session 9, 10: SQL Oracle Database - MYSQL, Koa-server
 
-##### Session 11, 12: Database (NOSQL- elasticsearch/kibana): construct http requests and parse responses from elasticsearch. [Reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
+##### Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch. [Reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
-##### Session 13, 14, 15:Database (NOSQL- elasticsearch/logstash): data analysis case study 
+##### Session 13, 14, 15:NOSQL Database - elasticsearch/logstash: data analysis case study 
+
+##### Session 15, 16 : NOSQL Database
 
 
 
