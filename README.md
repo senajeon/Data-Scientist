@@ -72,7 +72,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-[Investment Risk Measurement]
+[Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
 [Financial Analysis - Regressions]
 
