@@ -4,7 +4,49 @@ This repository contains all the links to the Google Colab code review notebooks
 Program taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
 Topics include data manipulation, data visualization and data analytics. 
 
-## Course 1: R 
+## Course 1: Python 
+
+##### Session 1, 2 Introduction & Installation 
+
+##### Session 3, 4 Data type, Variables, Operators [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
+
+##### Session 5, 6 Conditional statements, Functions [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
+
+##### Session 7, 8 Class, Module, Packages [My code notebook for session 7,8](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
+
+##### Session 9 Data structure & Algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
+
+##### Session 10,11 Data analytics modules (pandas, numpy, matplotlib), regular expressions [My code notebook for session 10,11](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
+
+##### Session 12,13 Data cleaning & analysis [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
+
+##### Session 14, 15 Forecasting [My code notebook for session 14, 15](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
+
+##### Case 1: Python for Finance
+[Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
+
+[Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
+
+[Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+
+[Markowitz Portfolio Optimization]
+
+[Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
+
+[Simple Regressions Analysis](https://colab.research.google.com/drive/1NQi5pUcdJ1uyK5WEgZL59V70m1uExhNA)
+
+[Multi Regression Analysis]
+
+[The Capital Asset Pricing Model]
+
+[Monte Carlo Simulations Analayis] 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Course 2: SQL
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Course 3: R 
 
 ##### Session 1: Data analysis process  
 
@@ -47,46 +89,9 @@ Topics include data manipulation, data visualization and data analytics.
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
-## Course 2: Python 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### Session 1, 2 Introduction & Installation 
-
-##### Session 3, 4 Data type, Variables, Operators [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
-
-##### Session 5, 6 Conditional statements, Functions [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
-
-##### Session 7, 8 Class, Module, Packages [My code notebook for session 7,8](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
-
-##### Session 9 Data structure & Algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
-
-##### Session 10,11 Data analytics modules (pandas, numpy, matplotlib), regular expressions [My code notebook for session 10,11](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
-
-##### Session 12,13 Data cleaning & analysis [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
-
-##### Session 14, 15 Forecasting [My code notebook for session 14, 15](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
-
-##### Case 1: Python for Finance
-[Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
-
-[Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
-
-[Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
-
-[Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
-
-[Financial Analysis - Regressions](https://colab.research.google.com/drive/1NQi5pUcdJ1uyK5WEgZL59V70m1uExhNA)
-
-[Markowitz Portfolio Optimization]
-
-[The Capital Asset Pricing Model]
-
-[Multivariate Regression Analysis]
-
-[Monte Carlo Simulations Analayis] 
-
-##### 
-
-## Course 3: Data Technologies 
+## Course 4: Data Technologies 
 
 ##### Session 1, 2: Linux, React, HTML5
 
