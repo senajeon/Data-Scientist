@@ -31,7 +31,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-[Markowitz Portfolio Optimization]
+[Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
 [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
@@ -63,7 +63,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 6: Statistics 2 - Regression analysis, ANOVA  
 
-##### Session 7: Machine Learning - Decision Tree
+##### Session 7: Data mining - Decision Tree
 
 ##### Exercises 
 [a.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
@@ -108,9 +108,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch. [Reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
-##### Session 13, 14, 15:NOSQL Database - elasticsearch/logstash: data analysis case study 
+##### Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case study 
 
-##### Session 15, 16 : NOSQL Database
+##### Session 15, 16 : NOSQL Database - elasticsearch 
 
 
 
