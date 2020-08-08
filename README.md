@@ -74,7 +74,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-[Financial Analysis - Regressions]
+[Financial Analysis - Regressions](https://colab.research.google.com/drive/1NQi5pUcdJ1uyK5WEgZL59V70m1uExhNA)
 
 [Markowitz Portfolio Optimization]
 
