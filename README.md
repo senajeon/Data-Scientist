@@ -39,9 +39,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Simple Regressions Analysis](https://colab.research.google.com/drive/1NQi5pUcdJ1uyK5WEgZL59V70m1uExhNA)
 
-[Multi Regression Analysis](https://colab.research.google.com/drive/1_LUl7TMgyV9zuOiHuhKfjb0S0Y8Cp9-T)
+[Multi-Regression Analysis](https://colab.research.google.com/drive/1_LUl7TMgyV9zuOiHuhKfjb0S0Y8Cp9-T)
 
-[Monte Carlo Simulations Analayis] 
+[Monte Carlo Simulations Analayis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
