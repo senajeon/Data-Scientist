@@ -39,7 +39,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Multi Regression Analysis]
 
-[The Capital Asset Pricing Model]
+[The Capital Asset Pricing Model](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
 [Monte Carlo Simulations Analayis] 
 
