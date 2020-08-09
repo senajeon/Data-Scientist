@@ -33,13 +33,13 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
-[The Capital Asset Pricing Model](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
+[CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
 [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
 [Simple Regressions Analysis](https://colab.research.google.com/drive/1NQi5pUcdJ1uyK5WEgZL59V70m1uExhNA)
 
-[Multi Regression Analysis]
+[Multi Regression Analysis](https://colab.research.google.com/drive/1_LUl7TMgyV9zuOiHuhKfjb0S0Y8Cp9-T)
 
 [Monte Carlo Simulations Analayis] 
 
