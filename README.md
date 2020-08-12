@@ -24,7 +24,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
 
-##### Case 1: Python for Finance
+##### Case Study 1: Python for Finance
 [Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
 
 [Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
@@ -47,6 +47,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 2: MYSQL - Tableau
 
+##### Case Study : MYSQL ecommerce 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 3: R 
@@ -63,7 +65,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 6: Statistics 2 - Regression analysis, ANOVA  
 
-##### Session 7: Data mining - Decision Tree
+##### Session 7: Data mining - Decision Tree, Random Forest
 
 ##### Exercises 
 [a.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
@@ -104,7 +106,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 7, 8: Exercises- weather data/subway data
 
-##### Session 9, 10: SQL Oracle Database - MYSQL, Koa-server
+##### Session 9, 10: MYSQL Server- MYSQL & Koa-server, MYSQL & R
 
 ##### Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch. [Reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
 
@@ -112,13 +114,13 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 15, 16 : NOSQL Database - elasticsearch 
 
-##### Case: elasticsearch analysis for media industry
+##### Case Study: elasticsearch text analysis for media industry
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 5: Machine Learning 
 
-##### Session 1, 2: Introduction - Google Trends [ML session 1](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
+##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
 
 
 
