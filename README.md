@@ -8,7 +8,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 1: Python 
 
-##### Session 1, 2  Introduction & Installation 
+##### Session 1, 2  Introduction & Set up Anaconda environment 
 
 ##### Session 3, 4  [Data type, Variables, Operators](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
 
