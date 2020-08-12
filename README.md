@@ -65,10 +65,15 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Project : MYSQL for Sales & Marketing Analytics
 [Analyzing Traffic Sources]
+
 [Analyzing Website Performance]
+
 [Analysis for Channel Portfolio Management]
+
 [Analyzing Business Patterns and Seasonality]
+
 [Product Analysis]
+
 [User Analysis]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
