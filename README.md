@@ -24,7 +24,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
 
-##### Case Study 1: Python for Finance
+##### Project 1: Python for Finance
 [Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
 
 [Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
@@ -47,7 +47,29 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 2: MYSQL - Tableau
 
-##### Case Study : MYSQL ecommerce 
+##### Session 1, 2
+
+##### Session 3, 4
+
+##### Session 5, 6
+
+##### Session 7, 8
+
+##### Session 9, 10
+
+##### Session 11, 12
+
+##### Session 13, 14
+
+##### Session 15, 16
+
+##### Project : MYSQL for Sales & Marketing Analytics
+[Analyzing Traffic Sources]
+[Analyzing Website Performance]
+[Analysis for Channel Portfolio Management]
+[Analyzing Business Patterns and Seasonality]
+[Product Analysis]
+[User Analysis]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
