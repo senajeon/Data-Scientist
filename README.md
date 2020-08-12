@@ -24,7 +24,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
 
-##### Project 1: Python for Finance
+##### Project: Python for Finance
 [Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
 
 [Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
@@ -63,7 +63,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 15, 16
 
-##### Project : MYSQL for Sales & Marketing Analytics
+##### Project: MYSQL for Sales & Marketing Analytics
 [Analyzing Traffic Sources]
 
 [Analyzing Website Performance]
@@ -141,7 +141,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 15, 16 : NOSQL Database - elasticsearch 
 
-##### Case Study: elasticsearch text analysis for media industry
+##### Project: elasticsearch text analysis for media industry
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
