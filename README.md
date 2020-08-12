@@ -112,6 +112,14 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 15, 16 : NOSQL Database - elasticsearch 
 
+##### Case: elasticsearch analysis for media industry
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Course 5: Machine Learning 
+
+##### Session 1, 2: Introduction - Google Trends [ML session 1](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
+
 
 
 
