@@ -8,21 +8,21 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 1: Python 
 
-##### Session 1, 2 Introduction & Installation 
+##### Session 1, 2  Introduction & Installation 
 
-##### Session 3, 4 Data type, Variables, Operators [My code notebook for session 3,4](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
+##### Session 3, 4  [Data type, Variables, Operators](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
 
-##### Session 5, 6 Conditional statements, Functions [My code notebook for session 5,6](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
+##### Session 5, 6  [Conditional statements, Functions](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
 
-##### Session 7, 8 Class, Module, Packages [My code notebook for session 7,8](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
+##### Session 7, 8  [Class, Module, Packages](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
 
-##### Session 9 Data structure & Algorithm [My code notebook for session 9](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
+##### Session 9     [Data structure & Algorithm](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
 
-##### Session 10,11 Data analytics modules (pandas, numpy, matplotlib), regular expressions [My code notebook for session 10,11](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
+##### Session 10,11 [Data analytics modules](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
 
-##### Session 12,13 Data cleaning & analysis [My code notebook for session 12,13](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
+##### Session 12,13 [Data cleaning & analysis](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
 
-##### Session 14, 15 Forecasting [My code notebook for session 14, 15](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
+##### Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
 
 ##### Case 1: Python for Finance
 [Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
@@ -53,9 +53,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1: Data analysis process  
 
-##### Session 2: Data structure (Vectors, Matrices, Array, List, Data frames). [My code notebook for session 2](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
+##### Session 2: [Data structure](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
-##### Session 3: The apply family(apply, lapply, sapply, tapply, mapply). [My code notebook for session 3](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+##### Session 3: [The apply family](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
 ##### Session 4: Visualization & ggplot2
  
