@@ -43,7 +43,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [3. EAD model]
 
-##### Project 3: Python for Customer Analytics - Segmentation(STP Framework)
+##### Project 3: Python for Sales & Marketing Analytics - STP Framework
 [1. K-Means Clustering]
 
 [2. Modeling Purchase Incidence]
@@ -74,7 +74,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 15, 16
 
-##### Project: MYSQL for Sales & Marketing Analytics
+##### Project: MYSQL for Sales & Marketing Analytics - ecommerce
 [1. Traffic Sources]
 
 [2. Website Performance]
