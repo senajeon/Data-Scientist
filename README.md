@@ -26,11 +26,11 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Project 1: Python for Finance
 
-[Stocks- Rate of Returns](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+[Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
 [Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
-[Captital Asset Pricing Model](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
+[CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
 [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
@@ -41,6 +41,9 @@ Topics include data manipulation, data visualization and data analytics.
 [Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 ##### Project 2: Python for Credit Risk 
+[PD model]
+[LGD model]
+[EAD model]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
