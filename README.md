@@ -25,9 +25,6 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
 
 ##### Project 1: Python for Finance
-[Automation process of getting the companies listed in the S&P 500](https://colab.research.google.com/drive/11pIcpCA1gUWiSDfaUqUAV1QNJVVlk17V#scrollTo=zz9aWxKwst64)
-
-[Extracting a company's information, earnings history, price history from online sources](https://colab.research.google.com/drive/1jQjsm4jgxgStuh4Ld4qs0eIcn42eHF7G)
 
 [Stocks- Rate of Returns](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
