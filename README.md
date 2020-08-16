@@ -26,22 +26,22 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Project 1: Python for Finance
 
-[Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+[1. Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-[Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
+[2. Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
-[CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
+[3. CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
-[Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
+[4. Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-[Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
+[5. Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 ##### Project 2: Python for Credit Risk 
-[PD model]
+[1. PD model]
 
-[LGD model]
+[2. LGD model]
 
-[EAD model]
+[3. EAD model]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,17 +64,17 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 15, 16
 
 ##### Project: MYSQL for Sales & Marketing Analytics
-[Analyzing Traffic Sources]
+[1. Analyzing Traffic Sources]
 
-[Analyzing Website Performance]
+[2. Analyzing Website Performance]
 
-[Analysis for Channel Portfolio Management]
+[3. Analysis for Channel Portfolio Management]
 
-[Analyzing Business Patterns and Seasonality]
+[4. Analyzing Business Patterns and Seasonality]
 
-[Product Analysis]
+[5. Product Analysis]
 
-[User Analysis]
+[7. User Analysis]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
