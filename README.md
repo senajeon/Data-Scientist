@@ -85,7 +85,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [5. Product Analysis]
 
-[7. User Analysis]
+[6. User Analysis]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
