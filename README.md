@@ -75,13 +75,13 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 15, 16
 
 ##### Project: MYSQL for Sales & Marketing Analytics
-[1. Analyzing Traffic Sources]
+[1. Traffic Sources]
 
-[2. Analyzing Website Performance]
+[2. Website Performance]
 
-[3. Analysis for Channel Portfolio Management]
+[3. Channel Portfolio Management]
 
-[4. Analyzing Business Patterns and Seasonality]
+[4. Business Patterns and Seasonality]
 
 [5. Product Analysis]
 
@@ -106,15 +106,15 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 7: Data mining - Decision Tree, Random Forest
 
 ##### Exercises 
-[a.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
+[1.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
 
-[b.Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
+[2.Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
 
-[c.Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
+[3.Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
 
-[d.Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
+[4.Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
 
-[e.Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
+[5.Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
 
 ##### Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
