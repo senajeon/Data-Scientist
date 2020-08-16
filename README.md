@@ -44,7 +44,7 @@ Topics include data manipulation, data visualization and data analytics.
 [3. EAD model]
 
 ##### Project 3: Python for Sales & Marketing Analytics - STP Framework
-[1. K-Means Clustering]
+[1. Machine Learning: K-Means Clustering]
 
 [2. Modeling Purchase Incidence]
 
