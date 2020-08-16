@@ -43,7 +43,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [3. EAD model]
 
-##### Project 3: Python for Customer Analytics - STP Framework
+##### Project 3: Python for Customer Analytics - Segmentation(STP Framework)
 [1. K-Means Clustering]
 
 [2. Modeling Purchase Incidence]
