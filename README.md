@@ -42,7 +42,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Project 2: Python for Credit Risk 
 [PD model]
+
 [LGD model]
+
 [EAD model]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
