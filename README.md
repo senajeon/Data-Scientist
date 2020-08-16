@@ -43,6 +43,17 @@ Topics include data manipulation, data visualization and data analytics.
 
 [3. EAD model]
 
+##### Project 3: Python for Customer Analytics - Segmentation
+[1. K-Means Clustering]
+
+[2. Modeling Purchase Incidence]
+
+[3. Modeling Brand Choice]
+
+[4. Modeling Purchase Quantity]
+
+[5. Deep Learning for Conversion Prediction]
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 2: MYSQL - Tableau
