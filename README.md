@@ -34,10 +34,6 @@ Topics include data manipulation, data visualization and data analytics.
 
 [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-[Simple Regressions Analysis](https://colab.research.google.com/drive/1NQi5pUcdJ1uyK5WEgZL59V70m1uExhNA)
-
-[Multi-Regression Analysis](https://colab.research.google.com/drive/1_LUl7TMgyV9zuOiHuhKfjb0S0Y8Cp9-T)
-
 [Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 ##### Project 2: Python for Credit Risk 
