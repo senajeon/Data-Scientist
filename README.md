@@ -105,9 +105,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 7: Data mining - Decision Tree, Random Forest
 
-##### Session 8: [Data mining](https://colab.research.google.com/drive/1xMFUADalCAb8c_PAjxYu9BzcYymt0_yU)
+##### Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1QjhmbrwDcGhVDlYCT0_phO01Z-CNGh-R#scrollTo=k0LkOhur09Mm)
 
-##### Exercises 
+##### Exercise 
 [1.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
 
 [2.Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
