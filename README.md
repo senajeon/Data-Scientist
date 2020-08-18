@@ -152,7 +152,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case study 
 
-##### Session 15, 16 : NOSQL Database - elasticsearch 
+##### Session 15, 16: NOSQL Database - elasticsearch 
 
 ##### Project: elasticsearch text analysis for media industry
 
@@ -161,6 +161,8 @@ Topics include data manipulation, data visualization and data analytics.
 ## Course 5: Machine Learning 
 
 ##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
+
+##### Session 3, 4: [Supervised Learning - Logistics Regression,KNN](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
