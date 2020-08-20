@@ -165,6 +165,7 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
 
 ##### Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP)
+[Session 4](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
