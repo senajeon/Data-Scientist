@@ -168,6 +168,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
 
+[reading materials - Customer Predictive Analytics with SVM](https://towardsdatascience.com/predictive-analytics-on-customer-behavior-with-support-vector-machines-svm-7e68fd2be610)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 6: Deep Learning 
