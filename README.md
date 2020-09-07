@@ -30,20 +30,20 @@ Topics include data manipulation, data visualization and data analytics.
 
 - [Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-[Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
+- [Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
-[CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
+- [CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
-[Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
+- [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-[Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
+- [Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 ##### Business case 2: Python for Credit Risk 
-[PD model]
+- [PD model]
 
-[LGD model]
+- [LGD model]
 
-[EAD model]
+- [EAD model]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,15 +60,15 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
 ##### Business case: Python for Sales & Marketing Analytics - STP Framework
-[Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+- [Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-[Modeling Purchase Probability]
+- [Modeling Purchase Probability]
 
-[Modeling Brand Choice Probability]
+- [Modeling Brand Choice Probability]
 
-[Modeling Purchase Quantity]
+- [Modeling Purchase Quantity]
 
-[Deep Learning for Conversion Prediction]
+- [Deep Learning for Conversion Prediction]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
