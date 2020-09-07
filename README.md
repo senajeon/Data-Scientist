@@ -28,22 +28,22 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Business case 1: Python for Finance
 
-[1. Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+[Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-[2. Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
+[Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
-[3. CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
+[CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
-[4. Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
+[Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-[5. Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
+[Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 ##### Business case 2: Python for Credit Risk 
-[1. PD model]
+[PD model]
 
-[2. LGD model]
+[LGD model]
 
-[3. EAD model]
+[EAD model]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,15 +60,15 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
 ##### Business case: Python for Sales & Marketing Analytics - STP Framework
-[1. Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+[Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-[2. Modeling Purchase Probability]
+[Modeling Purchase Probability]
 
-[3. Modeling Brand Choice Probability]
+[Modeling Brand Choice Probability]
 
-[4. Modeling Purchase Quantity]
+[Modeling Purchase Quantity]
 
-[5. Deep Learning (Neural networks, tensorflow) for Conversion Prediction]
+[Deep Learning for Conversion Prediction]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,17 +83,17 @@ Topics include data manipulation, data visualization and data analytics.
 ## Course 4 Database SQL - Tableau
 
 ##### Business case: MYSQL for Sales & Marketing Analytics - ecommerce
-[1. Traffic Sources]
+[Traffic Sources]
 
-[2. Website Performance]
+[Website Performance]
 
-[3. Channel Portfolio Management]
+[Channel Portfolio Management]
 
-[4. Business Patterns and Seasonality]
+[Business Patterns and Seasonality]
 
-[5. Product Analysis]
+[Product Analysis]
 
-[6. User Analysis]
+[User Analysis]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -168,6 +168,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Final Project 
+
 
 
 
