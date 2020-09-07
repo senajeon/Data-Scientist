@@ -170,7 +170,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu),[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
 
-##### Session 9: [Final Review](https://colab.research.google.com/drive/1Mi9NPaWdk9ysHSmXWbImtTnYc7xUV1iq), [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
+##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 6: Deep Learning 
