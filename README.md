@@ -171,6 +171,8 @@ Topics include data manipulation, data visualization and data analytics.
 [reading materials - Customer Predictive Analytics with SVM](https://towardsdatascience.com/predictive-analytics-on-customer-behavior-with-support-vector-machines-svm-7e68fd2be610)
 
 ##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu),[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
+
+##### Session 9: [Final Review](https://colab.research.google.com/drive/1Mi9NPaWdk9ysHSmXWbImtTnYc7xUV1iq)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 6: Deep Learning 
