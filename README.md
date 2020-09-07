@@ -26,7 +26,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-##### Project 1: Python for Finance
+##### Business case 1: Python for Finance
 
 [1. Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
@@ -38,14 +38,28 @@ Topics include data manipulation, data visualization and data analytics.
 
 [5. Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
-##### Project 2: Python for Credit Risk 
+##### Business case 2: Python for Credit Risk 
 [1. PD model]
 
 [2. LGD model]
 
 [3. EAD model]
 
-##### Project 3: Python for Sales & Marketing Analytics - STP Framework
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Course 2: Machine Learning 
+
+##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
+
+##### Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) [Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
+
+##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
+
+##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu),[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
+
+##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
+
+##### Business case: Python for Sales & Marketing Analytics - STP Framework
 [1. Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
 [2. Modeling Purchase Probability]
@@ -58,23 +72,15 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 2: MYSQL - Tableau
+## Course 3: Deep Learning 
 
-##### Session 1, 2
 
-##### Session 3, 4
 
-##### Session 5, 6
 
-##### Session 7, 8
 
-##### Session 9, 10
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### Session 11, 12
-
-##### Session 13, 14
-
-##### Session 15, 16
+## Course 4: Database SQL - Tableau
 
 ##### Project: MYSQL for Sales & Marketing Analytics - ecommerce
 [1. Traffic Sources]
@@ -91,7 +97,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 3: R 
+## Course 5: R 
 
 ##### Session 1: Data analysis process  
 
@@ -123,14 +129,14 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-##### Case 1: EY- Regression
+##### Business case 1: EY- Regression
 [R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
 
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-##### Case 2: Sportify - Classification 
+##### Business case 2: Sportify - Classification 
 [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
@@ -138,7 +144,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 4: Data Technologies 
+## Course 6: Data Technologies 
 
 ##### Session 1, 2: Linux, React, HTML5
 
@@ -156,24 +162,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 15, 16: NOSQL Database - elasticsearch 
 
-##### Project: elasticsearch text analysis for media industry
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Course 5: Machine Learning 
-
-##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
-
-##### Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) [Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
-
-##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
-
-##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu),[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
-
-##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Course 6: Deep Learning 
+##### Business case: elasticsearch text analysis for media industry
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
