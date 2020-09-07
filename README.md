@@ -6,7 +6,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 1: Python 
+## Course 1 Python 
 
 ##### Session 1, 2  Introduction & Set up Anaconda environment 
 
@@ -47,7 +47,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 2: Machine Learning 
+## Course 2 Machine Learning 
 
 ##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
 
@@ -72,7 +72,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 3: Deep Learning 
+## Course 3 Deep Learning 
 
 
 
@@ -80,7 +80,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 4: Database SQL - Tableau
+## Course 4 Database SQL - Tableau
 
 ##### Project: MYSQL for Sales & Marketing Analytics - ecommerce
 [1. Traffic Sources]
@@ -97,7 +97,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Course 5: R 
+## Course 5 R 
 
 ##### Session 1: Data analysis process  
 
@@ -143,8 +143,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Course 6: Data Technologies 
+## Course 6 Data Technologies 
 
 ##### Session 1, 2: Linux, React, HTML5
 
@@ -165,11 +164,9 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Business case: elasticsearch text analysis for media industry
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Course 7: AWS 
+## Course 7 AWS 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Final Project 
 
 
