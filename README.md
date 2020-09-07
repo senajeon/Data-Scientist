@@ -83,17 +83,17 @@ Topics include data manipulation, data visualization and data analytics.
 ## Course 4 Database SQL - Tableau
 
 ##### Business case: MYSQL for Sales & Marketing Analytics - ecommerce
-[Traffic Sources]
+- [Traffic Sources]
 
-[Website Performance]
+- [Website Performance]
 
-[Channel Portfolio Management]
+- [Channel Portfolio Management]
 
-[Business Patterns and Seasonality]
+- [Business Patterns and Seasonality]
 
-[Product Analysis]
+- [Product Analysis]
 
-[User Analysis]
+- [User Analysis]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -116,30 +116,30 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1QjhmbrwDcGhVDlYCT0_phO01Z-CNGh-R#scrollTo=k0LkOhur09Mm)
 
 ##### Exercise 
-[1.Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
+- [Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
 
-[2.Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
+- [Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
 
-[3.Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
+- [Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
 
-[4.Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
+- [Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
 
-[5.Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
+- [Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
 
 ##### Kaggle challenges
-[Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+- [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
 ##### Business case 1: EY- Regression
-[R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
+- [R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
 
-[R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+- [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
-[R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
+- [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
 ##### Business case 2: Sportify - Classification 
-[R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+- [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
-[R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
+- [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
