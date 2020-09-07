@@ -82,7 +82,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 4 Database SQL - Tableau
 
-##### Project: MYSQL for Sales & Marketing Analytics - ecommerce
+##### Business case: MYSQL for Sales & Marketing Analytics - ecommerce
 [1. Traffic Sources]
 
 [2. Website Performance]
