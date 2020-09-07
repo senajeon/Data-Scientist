@@ -44,7 +44,6 @@ Topics include data manipulation, data visualization and data analytics.
 
 - [EAD model]
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 2 Machine Learning 
 
@@ -69,15 +68,12 @@ Topics include data manipulation, data visualization and data analytics.
 
 - [Deep Learning for Conversion Prediction]
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 3 Deep Learning 
 
 
 
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 4 Database SQL - Tableau
 
@@ -94,7 +90,6 @@ Topics include data manipulation, data visualization and data analytics.
 
 - [User Analysis]
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 5 R 
 
@@ -141,7 +136,6 @@ Topics include data manipulation, data visualization and data analytics.
 - [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Course 6 Data Technologies 
 
 ##### Session 1, 2: Linux, React, HTML5
@@ -162,10 +156,10 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Business case: elasticsearch text analysis for media industry
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Course 7 AWS 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Final Project 
 
 
