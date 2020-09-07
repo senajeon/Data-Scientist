@@ -50,7 +50,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 [2. Modeling Purchase Probability]
 
-[3. Modeling Brand Choice]
+[3. Modeling Brand Choice Probability]
 
 [4. Modeling Purchase Quantity]
 
