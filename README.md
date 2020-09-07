@@ -4,7 +4,6 @@ This repository contains all the links to the Google Colab code review notebooks
 Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
 Topics include data manipulation, data visualization and data analytics. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 1 Python 
 
