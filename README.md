@@ -48,7 +48,7 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Project 3: Python for Sales & Marketing Analytics - STP Framework
 [1. Machine Learning: K-Means Clustering](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-[2. Modeling Purchase Incidence]
+[2. Modeling Purchase Probability]
 
 [3. Modeling Brand Choice]
 
