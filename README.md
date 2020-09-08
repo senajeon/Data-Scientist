@@ -59,6 +59,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Business case: Python for Sales & Marketing Analytics - STP Framework
 
+Analyze customer data in FMCG to model purchase probability, brand choice and purchase quantity: 
 
 - [Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
