@@ -73,6 +73,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 3 Deep Learning 
 
+##### Session 1, 2: [Neural Network]
 
 
 
