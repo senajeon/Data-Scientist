@@ -37,13 +37,6 @@ Topics include data manipulation, data visualization and data analytics.
 
 - [Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
-##### Business case 2: Python for Credit Risk 
-- [PD model]
-
-- [LGD model]
-
-- [EAD model]
-
 
 ## Course 2 Machine Learning 
 
