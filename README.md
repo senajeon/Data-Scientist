@@ -162,9 +162,6 @@ Topics include data manipulation, data visualization and data analytics.
 ## Course 7 AWS 
 
 
-## Final Project 
-
-
 
 
 
