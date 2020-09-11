@@ -60,13 +60,13 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Case Introduction, Machine Learning: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-- [Modeling Purchase Probability]
+- ##### [Modeling Purchase Probability]
 
-- [Modeling Brand Choice Probability]
+- ##### [Modeling Brand Choice Probability]
 
-- [Modeling Purchase Quantity]
+- ##### [Modeling Purchase Quantity]
 
-- [Deep Learning for Conversion Prediction]
+- ##### [Deep Learning for Conversion Prediction]
 
 
 ## Course 3 Deep Learning 
@@ -111,30 +111,30 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1QjhmbrwDcGhVDlYCT0_phO01Z-CNGh-R#scrollTo=k0LkOhur09Mm)
 
 ##### Exercise 
-- [Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
+- ##### [Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
 
-- [Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
+- ##### [Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
 
-- [Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
+- ##### [Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
 
-- [Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
+- ##### [Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
 
-- [Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
+- ##### [Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
 
 ##### Kaggle challenges
-- [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+- ##### [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
 ##### Business case 1: EY- Regression
-- [R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
+- ##### [R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
 
-- [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+- ##### [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
-- [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
+- ##### [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
 ##### Business case 2: Sportify - Classification 
-- [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+- ##### [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
-- [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
+- ##### [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
 ## Course 6 Data Technologies 
