@@ -27,15 +27,15 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Business case 1: Python for Finance
 
-- [Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+- ##### [Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-- [Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
+- ##### [Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)
 
-- [CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
+- ##### [CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i)
 
-- [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
+- ##### [Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-- [Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
+- ##### [Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
 
 ## Course 2 Machine Learning 
@@ -58,7 +58,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Business case: Python for Sales & Marketing Analytics - STP Framework
 
-- [Case Introduction, Machine Learning: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+- ##### [Case Introduction, Machine Learning: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
 - [Modeling Purchase Probability]
 
