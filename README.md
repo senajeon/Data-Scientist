@@ -58,7 +58,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Business case: Python for Sales & Marketing Analytics - STP Framework
 
-- ##### [Case Introduction, Machine Learning: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+- ##### [Case Introduction, Customer Segmentation using Machine Learning: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
 - ##### [Modeling Purchase Probability]
 
