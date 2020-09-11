@@ -50,13 +50,15 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
 
-##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu),[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
+##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu)
+
+##### [xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
 
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
 ##### Business case: Python for Sales & Marketing Analytics - STP Framework
 
-- [Machine Learning: K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+- [Case Introduction, Machine Learning: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
 - [Modeling Purchase Probability]
 
