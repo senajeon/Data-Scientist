@@ -42,7 +42,11 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
 
-##### Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) [Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
+##### Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) 
+
+#####[Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
+
+#####[Unsupervised Learning - K means clustering, Hierarchical clustering](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
 
 ##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
 
