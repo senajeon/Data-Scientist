@@ -46,7 +46,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### [Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
 
-##### [Unsupervised Learning - K means clustering, Hierarchical clustering](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
+##### [Unsupervised Learning - K means clustering, Hierarchical clustering, PCA](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
 
 ##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
 
