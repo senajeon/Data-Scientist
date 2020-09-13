@@ -60,9 +60,11 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-- ##### [Positioning: Modeling Purchase Probability using regression, logistic regression](https://colab.research.google.com/drive/1JC1uhuwf5WFj2fNc_qlf23up-_kFCayX)
+- ##### [Descriptive Analysis by segments](https://colab.research.google.com/drive/1JC1uhuwf5WFj2fNc_qlf23up-_kFCayX)
 
-- ##### [Modeling Brand Choice Probability]
+- ##### [Modelling Purchase Incidence]
+
+- ##### [Modeling Brand Choice]
 
 - ##### [Modeling Purchase Quantity]
 
