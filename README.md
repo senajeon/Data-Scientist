@@ -56,17 +56,13 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
-##### Business case: Sales & Marketing Analytics - Customer Segmentation 
+##### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
 
 - ##### [Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-- ##### [Descriptive Analysis by segments](https://colab.research.google.com/drive/1JC1uhuwf5WFj2fNc_qlf23up-_kFCayX)
+- ##### [Exploratory Data Analysis](https://colab.research.google.com/drive/1JC1uhuwf5WFj2fNc_qlf23up-_kFCayX)
 
-- ##### [Modelling Purchase Incidence]
-
-- ##### [Modeling Brand Choice]
-
-- ##### [Modeling Purchase Quantity]
+- ##### [Predictive Analysis -Price Elasticity and its effect on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity]
 
 - ##### [Deep Learning for Conversion Prediction]
 
