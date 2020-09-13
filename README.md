@@ -25,7 +25,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-##### Business case 1: Python for Finance
+##### Business case: Finance - Stock price analysis 
 
 - ##### [Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
@@ -56,7 +56,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
-##### Business case Sales & Marketing Analytics: 
+##### Business case: Sales & Marketing Analytics - Customer Segmentation 
 
 - ##### [Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
