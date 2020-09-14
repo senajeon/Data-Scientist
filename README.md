@@ -94,7 +94,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1: Data analysis process  
 
-##### Session 2: [Data structure](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
+##### Session 2: [Lecture1.1](https://colab.research.google.com/drive/1Tw7gn4JhrWdBP114n3sXaE3GMJgWsOm2)
+
+##### [Data structure](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
 ##### Session 3: [The apply family](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
