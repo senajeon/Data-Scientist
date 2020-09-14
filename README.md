@@ -160,6 +160,27 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 7 AWS 
 
+## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
+
+##### [Product segmentations single and Multi-criteria]
+
+##### [Supplier segmentations]
+
+##### [Customers segmentations]
+
+##### [Forecasting techniques and accuracy testing]
+
+##### [Linear Programming and Logistics Optimizations]
+
+##### [Pricing and Markdowns Optimization Techniques]
+
+##### [Inventory Policy and Safety Stock Calculations]
+
+##### [Inventory Simulations]
+
+##### [Machine Learning for Supply Chian]
+
+##### [Simulations for optimizing Capacity and Resources]
 
 
 
