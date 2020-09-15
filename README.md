@@ -15,7 +15,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 7, 8  [Class, Module, Packages](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
 
-##### Session 9     [Data structure & Algorithm](https://colab.research.google.com/drive/1S3-kajOh9szdopX0tBFZESAZAVZnYyDx)
+##### Session 9     [Data structure & Algorithm](https://colab.research.google.com/drive/1uULTdRm_VFxS-_JKYWCBlhHHdESHk9rc)
 
 ##### Session 10,11 [Data analytics modules](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
 
@@ -60,7 +60,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-- ##### [Exploratory Data Analysis](https://colab.research.google.com/drive/1JC1uhuwf5WFj2fNc_qlf23up-_kFCayX)
+- ##### [Exploratory Data Analysis](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
 
 - ##### [Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity]
 
@@ -110,22 +110,10 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1QjhmbrwDcGhVDlYCT0_phO01Z-CNGh-R#scrollTo=k0LkOhur09Mm)
 
-##### Exercise 
-- ##### [Exercise for Data structure](https://colab.research.google.com/drive/12uvbAI4B487y8woBX5XG6OR18pt6iuqP)
-
-- ##### [Exercise for Conditional, repeat](https://colab.research.google.com/drive/1vU-5hYrbkebxzbJ0RID-q5pM_AheYYBr)
-
-- ##### [Exercise for Function, packages](https://colab.research.google.com/drive/1n0lACRpT0PAkeRKeyXqaJJjFj8n6MAeW)
-
-- ##### [Exercise for Visualization](https://colab.research.google.com/drive/1zXFoKjpiaSig-R5pN9txCgyPPt_8bIzh)
-
-- ##### [Exercise for EDA](https://colab.research.google.com/drive/1_19UAAS8E5211LRje7YYzQZfs0JiBndh)
-
 ##### Kaggle challenges
 - ##### [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
 ##### Business case 1: EY- Regression
-- ##### [R for TransportEY case introduction](https://github.com/senajeon/Data-Science-School/blob/master/EY%20case%20-%20Analytics%20Presentation.pdf)
 
 - ##### [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
@@ -149,7 +137,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 9, 10: MYSQL Server- MYSQL & Koa-server, MYSQL & R
 
-##### Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch. [Reading material](https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a)
+##### Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch
 
 ##### Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case study 
 
