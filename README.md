@@ -146,7 +146,9 @@ Topics include data manipulation, data visualization and data analytics.
 ##### Business case: elasticsearch text analysis for media industry
 
 
-## Course 7 AWS 
+## Course 7 Hadoop
+
+##### Session 1, 2: Introduction & Installation Hadoop on Linux 
 
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
@@ -171,6 +173,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Simulations for optimizing Capacity and Resources]
 
+## Final Project: VRP (Vehicle Route Problem) Algorithm 
 
 
 
