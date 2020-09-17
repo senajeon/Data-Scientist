@@ -71,6 +71,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1, 2: [Neural Network]
 
+##### Session 3, 4: [Training related technologies]
+
 
 
 
