@@ -69,9 +69,9 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Course 3 Deep Learning 
 
-##### Session 1, 2: [Neural Network]
+##### Session 1, 2: [Neural Network](https://colab.research.google.com/drive/10xE0DlLgEEmPDp0NFiDqxf4mO6rGPmO7)
 
-##### [Backpropagation](https://colab.research.google.com/drive/1ozDOT4Qh3KbDnwkztWbjdrN3HYVjmJmk?usp=sharing)
+##### [Backpropagation](https://colab.research.google.com/drive/1JDQsPzCD8W-bojnsoMyKUC79fIjP7Y2c)
 
 ##### Session 3, 4: [Training related technologies]
 
