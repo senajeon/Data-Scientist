@@ -71,6 +71,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1, 2: [Neural Network]
 
+##### [Backpropagation](https://colab.research.google.com/drive/1ozDOT4Qh3KbDnwkztWbjdrN3HYVjmJmk?usp=sharing)
+
 ##### Session 3, 4: [Training related technologies]
 
 
