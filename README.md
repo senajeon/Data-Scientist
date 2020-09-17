@@ -73,7 +73,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### [Backpropagation](https://colab.research.google.com/drive/1JDQsPzCD8W-bojnsoMyKUC79fIjP7Y2c)
 
-##### Session 3, 4: Training related technologies
+##### Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn)
 
 
 
