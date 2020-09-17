@@ -64,7 +64,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity]
 
-- ##### [Deep Learning for Conversion Prediction]
+- ##### [Deep Learning for Conversion Prediction] 
 
 
 ## Course 3 Deep Learning 
