@@ -156,7 +156,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
-##### :Supply Chain Data Science business case covering from upstream (product planning, inventory management) to downstream (forecasting, segementation, pricing) sides. 
+##### :Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. 
 
 - ##### [Product segmentations single and Multi-criteria]
 
