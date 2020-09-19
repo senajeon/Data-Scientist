@@ -178,7 +178,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Machine Learning for Supply Chian]
 
-- ##### [Simulations for optimizing Capacity and Resources]
+- ##### [Simulations for optimizing Capacity and Resources] 
 
 
 
