@@ -62,7 +62,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Exploratory Data Analysis](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
 
-- ##### [Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity]
+- ##### [Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
 
 - ##### [Deep Learning for Conversion Prediction] 
 
