@@ -60,7 +60,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-- ##### [Exploratory Data Analysis](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
+- ##### [Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
 
 - ##### [Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
 
