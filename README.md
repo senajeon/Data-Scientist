@@ -156,7 +156,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
-##### :Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
+##### : Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
 
 - ##### [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
 
@@ -180,7 +180,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Simulations for optimizing Capacity and Resources] 
 
-
+## Final Project: VRP (Vehicle Routing Problem) 
 
 
 
