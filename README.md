@@ -182,7 +182,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ## Final Project: VRP (Vehicle Routing Problem) 
 
-
+- ##### [Research notebook](https://colab.research.google.com/drive/1opCz2CrIXRUMhj0kLlSkR3ZwFDaaE8OR#scrollTo=JvfWohumfZK0)
 
 
 
