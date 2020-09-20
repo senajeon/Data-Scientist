@@ -77,7 +77,6 @@ Topics include data manipulation, data visualization and data analytics.
 
 
 
-
 ## Course 4 Advanced SQL: MYSQL & Tableau/ MYSQL & python
 
 ##### Business case: MYSQL for Sales & Marketing Analytics - ecommerce
