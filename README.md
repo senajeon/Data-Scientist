@@ -182,7 +182,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 - ##### [Pricing and Markdowns Optimization Techniques]
 
-- ##### [Inventory Policy and Safety Stock Calculations]
+- ##### [Inventory Policy and Safety Stock Calculations] 
 
 - ##### [Inventory Simulations]
 
