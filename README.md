@@ -83,6 +83,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn) 
 
+##### Session 5, 6: [Tensorflow - Natural Language and Sound Data]
+
 
 
 ## Course 4 Advanced SQL: MYSQL & Tableau/ MYSQL & python
