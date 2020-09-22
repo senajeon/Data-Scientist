@@ -161,7 +161,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1, 2: Introduction & Installation Hadoop on Linux 
 
-## Computer Vision
+## Course 8 Computer Vision
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
 ##### : Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
