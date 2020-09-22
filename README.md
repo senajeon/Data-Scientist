@@ -83,7 +83,7 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn) 
 
-##### Session 5, 6: [Tensorflow - Natural Language and Sound Data]
+##### Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
 
 
