@@ -163,6 +163,8 @@ Topics include data manipulation, data visualization and data analytics.
 
 ##### Session 1, 2: Introduction & Installation Hadoop on Linux 
 
+##### Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python and SQL  
+
 ## Course 8 Computer Vision
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
