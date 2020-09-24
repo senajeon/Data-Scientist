@@ -67,6 +67,8 @@ Topics include data manipulation, data visualization and data analytics. The pro
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
 ##### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
+Marketing Analytics conducted in Python using scikit-learn package and TensorFlow 2.0 freamwork. The stpes are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA.
+##### : Classification project
 
 - ##### [Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
