@@ -5,6 +5,7 @@ Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science a
 Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
 
 # Data Analytics 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 1 Python 
 
