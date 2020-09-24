@@ -66,18 +66,6 @@ Topics include data manipulation, data visualization and data analytics. The pro
 
 ##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
-##### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
-
-##### Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
-
-##### [(1) Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
-
-##### [(2) Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
-
-##### [(3) Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
-
-##### [(4) Deep Learning for Conversion Prediction] 
-
 
 ## Course 3 Deep Learning 
 
@@ -89,6 +77,17 @@ Topics include data manipulation, data visualization and data analytics. The pro
 
 ##### Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
+##### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
+
+##### Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
+
+##### [(1) Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+
+##### [(2) Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
+
+##### [(3) Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
+
+##### [(4) Deep Learning for Conversion Prediction] 
 
 
 ## Course 4 Advanced SQL: MYSQL & Tableau/ MYSQL & python
