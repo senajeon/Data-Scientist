@@ -112,13 +112,13 @@ Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1Qjh
 Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-### *Business case 1*: EY- Regression
+### *Business case*: Regression
 
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-### *Business case2*: Sportify - Classification 
+### *Business case*: Classification 
 [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
