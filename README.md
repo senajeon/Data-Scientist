@@ -24,7 +24,7 @@ Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX
 
 Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-### *Business case*: Stock Price Analysis  
+### *Business case 1*: Stock Price Analysis  
 
 : Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
 
@@ -68,9 +68,9 @@ Session 3, 4: [Training related technologies](https://colab.research.google.com/
 
 Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
-### *Business case*: Customer Segmentation (FMCG)  
+### *Business case 2*: Customer Segmentation (FMCG)  
 
-Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
+Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segments for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
 
 [1. Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
@@ -104,13 +104,13 @@ Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1Qjh
 Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-### *Business case*: Regression
+### *Business case 3*: Regression
 
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-### *Business case*: Classification 
+### *Business case 4*: Classification 
 [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
@@ -134,7 +134,7 @@ Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case 
 
 Session 15, 16: NOSQL Database - elasticsearch 
 
-### *Business case*: elasticsearch Text Analysis 
+### *Business case 5*: elasticsearch Text Analysis 
 
 
 ## Course 6 Hadoop
@@ -146,7 +146,7 @@ Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## *Final Business Case*: Supply Chain (upstream - downstream) Applicaitons 
+## *Final Business Case 6*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming langauage is Python.
 
 [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
