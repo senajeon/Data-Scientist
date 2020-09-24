@@ -24,7 +24,7 @@ Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX
 
 Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-### *Business case*: Finance - Stock price analysis  
+### *Business case*: Stock Price Analysis  
 
 : Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
 
