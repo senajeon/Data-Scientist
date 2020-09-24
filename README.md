@@ -70,7 +70,7 @@ Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.resea
 
 ### *Business case 2*: Customer Segmentation (FMCG)  
 
-Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segments for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
+Marketing Analytics conducted in Python using ML and DL. The stpe is to perform culster analysis and dimensionality reduction employing K-means and PCA. Next is Descriptive statistics to form hypotheses about the segments for the modeling- purchase probability, brand choice and purchase quantity. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0.
 
 [1. Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
