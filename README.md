@@ -5,7 +5,6 @@ Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science a
 Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
 
 # Data Analytics 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Course 1 Python 
 
@@ -139,6 +138,9 @@ Topics include data manipulation, data visualization and data analytics. The pro
 
 - ##### [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Data Engineering
 
 ## Course 6 Data Technologies 
 
@@ -168,6 +170,8 @@ Topics include data manipulation, data visualization and data analytics. The pro
 ##### Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python and SQL  
 
 ## Course 8 Computer Vision
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
 ##### : Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
