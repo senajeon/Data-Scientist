@@ -25,27 +25,27 @@ Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX
 
 Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-### Business case: Finance - Stock price analysis  
+### *Business case*: Finance - Stock price analysis  
 
-##### : Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
+: Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
 
-##### [(1) Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
+[1. Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
-##### [(2) Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)  
+[2. Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)  
 
-##### [(3) CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i) 
+[3. CAPM](https://colab.research.google.com/drive/16rNklenIdWIa4qAYtAz9kHpuLS-sed9i) 
 
-##### [(4) Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
+[4. Investment Risk Measurement](https://colab.research.google.com/drive/1bMPfcfbXY6jd0g1czZCrBp7Vs9eC0DMi#scrollTo=0WT1CRwrQHU_)
 
-##### [(5) Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
+[5. Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
-##### Business case: Credit Risk
+##### *Business case*: Credit Risk
 
-##### [PD model]
+[PD model]
 
-##### [LGD model]
+[LGD model]
 
-##### [EAD model]
+[EAD model]
 
 
 ## Course 2 Machine Learning 
@@ -79,34 +79,18 @@ Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.resea
 
 ### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
 
-##### Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
+Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
 
-##### [(1) Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+[(1) Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
-##### [(2) Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
+[(2) Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
 
-##### [(3) Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
+[(3) Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
 
-##### [(4) Deep Learning for Conversion Prediction] 
-
-
-## Course 4 Advanced SQL: MYSQL & Tableau/ MYSQL & python
-
-##### Business case: MYSQL for Sales & Marketing Analytics - ecommerce
-- [Traffic Sources]
-
-- [Website Performance]
-
-- [Channel Portfolio Management]
-
-- [Business Patterns and Seasonality]
-
-- [Product Analysis]
-
-- [User Analysis]
+[(4) Deep Learning for Conversion Prediction] 
 
 
-## Course 5 R 
+## Course 4 R 
 
 Session 1: Data analysis process  
 
@@ -129,19 +113,19 @@ Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1Qjh
 Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-### Business case 1: EY- Regression
+### *Business case 1*: EY- Regression
 
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-### Business case 2: Sportify - Classification 
+### *Business case2*: Sportify - Classification 
 [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
-## Course 6 Data Technologies 
+## Course 5 Data Technologies 
 
 Session 1, 2: Linux, React, HTML5
 
@@ -159,10 +143,10 @@ Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case 
 
 Session 15, 16: NOSQL Database - elasticsearch 
 
-### Business case: elasticsearch text analysis for media industry
+### *Business case*: elasticsearch text analysis for media industry
 
 
-## Course 7 Hadoop
+## Course 6 Hadoop
 
 Session 1, 2: Introduction & Installation Hadoop on Linux 
 
@@ -171,7 +155,7 @@ Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
+## *Final Business Case*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
 
 [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
