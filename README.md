@@ -142,7 +142,7 @@ Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case 
 
 Session 15, 16: NOSQL Database - elasticsearch 
 
-### *Business case*: elasticsearch text analysis for media industry
+### *Business case*: elasticsearch Text Analysis 
 
 
 ## Course 6 Hadoop
@@ -155,7 +155,7 @@ Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## *Final Business Case*: Supply Chain (upstream - downstream) Applicaitons 
-: Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
+: Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming langauage is Python.
 
 [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
 
