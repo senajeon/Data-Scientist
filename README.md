@@ -9,23 +9,23 @@ Topics include data manipulation, data visualization and data analytics. The pro
 
 Session 1, 2  Introduction & Set up Anaconda environment 
 
-##### Session 3, 4  [Data type, Variables, Operators](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
+Session 3, 4  [Data type, Variables, Operators](https://colab.research.google.com/drive/1M3c6j2i1HrUm5kX9ICKTqobDgmHITuao)
 
-##### Session 5, 6  [Conditional statements, Functions](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
+Session 5, 6  [Conditional statements, Functions](https://colab.research.google.com/drive/1Jn1LwwI2ZgVZ_j-tgMfg5yUNe_oG5JtD)
 
-##### Session 7, 8  [Class, Module, Packages](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
+Session 7, 8  [Class, Module, Packages](https://colab.research.google.com/drive/1-5EEk8JljwaTiev5uy5kH42-ENX3buDG#scrollTo=yMrK0uEBexsZ)
 
-##### Session 9     [Data structure & Algorithm](https://colab.research.google.com/drive/1uULTdRm_VFxS-_JKYWCBlhHHdESHk9rc)
+Session 9     [Data structure & Algorithm](https://colab.research.google.com/drive/1uULTdRm_VFxS-_JKYWCBlhHHdESHk9rc)
 
-##### Session 10,11 [Data analytics modules](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
+Session 10,11 [Data analytics modules](https://colab.research.google.com/drive/1TZYuVFyx3u05Q9hPF8fXg-gW9IQ9KWS4)
 
-##### Session 12,13 [Data cleaning & analysis](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
+Session 12,13 [Data cleaning & analysis](https://colab.research.google.com/drive/147WJGYzAnjKjVtuEqrPnkAfvw5xbvz-h#scrollTo=lmzFmp6UBpR3)
 
-##### Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
+Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX-z1XA-PqKDxHH9Hu3wglk)
 
-##### Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
+Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-##### Business case: Finance - Stock price analysis  
+##### *Business case*: Finance - Stock price analysis  
 
 ##### : Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
 
