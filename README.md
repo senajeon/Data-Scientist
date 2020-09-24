@@ -171,7 +171,7 @@ Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python 
 
 [Simulations for optimizing Capacity and Resources] 
 
-## *Final Project*: Pricing Prediction 
+## *Final Project*: Pricing Prediction Web Services
 
 
 
