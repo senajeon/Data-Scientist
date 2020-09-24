@@ -4,7 +4,6 @@ This repository contains all the links to the Google Colab code review notebooks
 Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
 Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
 
-# Part 1 Data Analytics 
 
 ## Course 1 Python 
 
@@ -138,9 +137,6 @@ Topics include data manipulation, data visualization and data analytics. The pro
 
 - ##### [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Part 2 Data Engineering
 
 ## Course 6 Data Technologies 
 
