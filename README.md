@@ -77,7 +77,7 @@ Session 3, 4: [Training related technologies](https://colab.research.google.com/
 
 Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
-### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
+### *Business case*: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
 
 Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
 
