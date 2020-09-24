@@ -39,7 +39,7 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 [5. Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
-##### *Business case*: Credit Risk
+### *Business case*: Credit Risk
 
 [PD model]
 
