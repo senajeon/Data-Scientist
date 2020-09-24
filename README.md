@@ -1,7 +1,6 @@
 # Data-Scientist-Program 
 
-This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month intensive full-time offline Data Science Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020.
-Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
+This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month intensive full-time offline Data Science Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020. All teaching faculty in this program holds Ph.D in Industrial Engineering from Korea University. Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
 
 
 ## Course 1 Python 
