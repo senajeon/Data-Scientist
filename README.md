@@ -27,6 +27,8 @@ Topics include data manipulation, data visualization and data analytics. The pro
 
 ##### Business case: Finance - Stock price analysis  
 
+##### : Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib and coverd topics; RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
+
 ##### [(1) Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
 ##### [(2) Markowitz Portfolio Optimization](https://colab.research.google.com/drive/1XD7VsH-XhLJoRsGVWWVC0Ko5_ucqNvA5)  
