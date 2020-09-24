@@ -171,7 +171,8 @@ Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python 
 
 [Simulations for optimizing Capacity and Resources] 
 
-## *Final Project*: Pricing Prediction Web Services
+## *Final Project*: VRP (Vehicle Routing Problem) Optimization 
+: In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. I'm currently researching to design heuristics for VRP. 
 
 
 
