@@ -25,7 +25,7 @@ Session 14,15 [Forecasting](https://colab.research.google.com/drive/1arTmU04ouXX
 
 Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1Di0spPi-r8JAuRRoWs#scrollTo=vbngzDXbEsvh)
 
-##### *Business case*: Finance - Stock price analysis  
+### Business case: Finance - Stock price analysis  
 
 ##### : Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
 
@@ -50,34 +50,34 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 ## Course 2 Machine Learning 
 
-##### Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
+Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
 
-##### Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) 
+Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) 
 
-##### [Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
+[Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
 
-##### [Unsupervised Learning - K means clustering, Hierarchical clustering, PCA](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
+[Unsupervised Learning - K means clustering, Hierarchical clustering, PCA](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
 
-##### Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
+Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
 
-##### Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu)
+Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu)
 
-##### [xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
+[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
 
-##### Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
+Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
 
 
 ## Course 3 Deep Learning 
 
-##### Session 1, 2: [Neural Network](https://colab.research.google.com/drive/10xE0DlLgEEmPDp0NFiDqxf4mO6rGPmO7)
+Session 1, 2: [Neural Network](https://colab.research.google.com/drive/10xE0DlLgEEmPDp0NFiDqxf4mO6rGPmO7)
 
-##### [Backpropagation](https://colab.research.google.com/drive/1JDQsPzCD8W-bojnsoMyKUC79fIjP7Y2c)
+[Backpropagation](https://colab.research.google.com/drive/1JDQsPzCD8W-bojnsoMyKUC79fIjP7Y2c)
 
-##### Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn) 
+Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn) 
 
-##### Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
+Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
-##### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
+### Business case: Sales & Marketing Analytics - Customer segmentation (B2C FMCG)  
 
 ##### Marketing Analytics project conducted in Python using Machine Learning and Deep Learning techniques. The stpes taken are to perform culster analysis and dimensionality reduction employing K-means algorithm and PCA to segment customers. Next, it applies Descriptive statistics to form hypotheses about the segment for the modeling. After it's a modeling part for purchase probability, brand choice and purchase quantity, employing regressions. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0 framework.
 
@@ -108,96 +108,93 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 ## Course 5 R 
 
-##### Session 1: Data analysis process  
+Session 1: Data analysis process  
 
-##### Session 2: [Lecture1.1](https://colab.research.google.com/drive/1Tw7gn4JhrWdBP114n3sXaE3GMJgWsOm2)
+Session 2: [Lecture1.1](https://colab.research.google.com/drive/1Tw7gn4JhrWdBP114n3sXaE3GMJgWsOm2)
 
-##### [Data structure](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
+[Data structure](https://colab.research.google.com/drive/185vcHJzAKCbko37MG-QkcxoiIkRZDANT#scrollTo=gMKQCwNglkHe)
 
-##### Session 3: [The apply family](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
+Session 3: [The apply family](https://colab.research.google.com/drive/1l6TG8E5Mjm7pyRmXjahZRtAwlUO5twGy#scrollTo=4qYrAjhK4I3L&uniqifier=2)
 
-##### Session 4: Visualization & ggplot2
+Session 4: Visualization & ggplot2
  
-##### Session 5: Statistics 1 - data quality testing methods
+Session 5: Statistics 1 - data quality testing methods
 
-##### Session 6: Statistics 2 - Regression analysis, ANOVA  
+Session 6: Statistics 2 - Regression analysis, ANOVA  
 
-##### Session 7: Data mining - Decision Tree, Random Forest
+Session 7: Data mining - Decision Tree, Random Forest
 
-##### Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1QjhmbrwDcGhVDlYCT0_phO01Z-CNGh-R#scrollTo=k0LkOhur09Mm)
+Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1QjhmbrwDcGhVDlYCT0_phO01Z-CNGh-R#scrollTo=k0LkOhur09Mm)
 
-##### Kaggle challenges
-- ##### [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
+Kaggle challenges
+[Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-##### Business case 1: EY- Regression
+### Business case 1: EY- Regression
 
-- ##### [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
+[R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
-- ##### [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
+[R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-##### Business case 2: Sportify - Classification 
-- ##### [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
+### Business case 2: Sportify - Classification 
+[R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
-- ##### [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
+[R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
 
 
 ## Course 6 Data Technologies 
 
-##### Session 1, 2: Linux, React, HTML5
+Session 1, 2: Linux, React, HTML5
 
-##### Session 3, 4: Web crawling & scraping 1
+Session 3, 4: Web crawling & scraping 1
 
-##### Session 5, 6: Web crawling & scraping 2
+Session 5, 6: Web crawling & scraping 2
 
-##### Session 7, 8: Exercises- weather data/subway data
+Session 7, 8: Exercises- weather data/subway data
 
-##### Session 9, 10: MYSQL Server- MYSQL & Koa-server, MYSQL & R
+Session 9, 10: MYSQL Server- MYSQL & Koa-server, MYSQL & R
 
-##### Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch
+Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch
 
-##### Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case study 
+Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case study 
 
-##### Session 15, 16: NOSQL Database - elasticsearch 
+Session 15, 16: NOSQL Database - elasticsearch 
 
-##### Business case: elasticsearch text analysis for media industry
+### Business case: elasticsearch text analysis for media industry
 
 
 ## Course 7 Hadoop
 
-##### Session 1, 2: Introduction & Installation Hadoop on Linux 
+Session 1, 2: Introduction & Installation Hadoop on Linux 
 
-##### Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python and SQL  
+Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python and SQL  
 
-## Course 8 Computer Vision
-
-## Course 9 Text Mining 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Final Business Case: Supply Chain (upstream - downstream) Applicaitons 
-##### : Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
+: Supply Chain Data Science business case covering from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing) sides. The tools used for this case analysis are Excel and Spyder(python). 
 
-- ##### [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
+[python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
 
-- ##### [Product segmentations single and Multi-criteria]
+[Product segmentations single and Multi-criteria]
 
-- ##### [Supplier segmentations]
+[Supplier segmentations]
 
-- ##### [Customers segmentations]
+[Customers segmentations]
 
-- ##### [Forecasting techniques and accuracy testing]
+[Forecasting techniques and accuracy testing]
 
-- ##### [Linear Programming and Logistics Optimizations]
+[Linear Programming and Logistics Optimizations]
 
-- ##### [Pricing and Markdowns Optimization Techniques]
+[Pricing and Markdowns Optimization Techniques]
 
-- ##### [Inventory Policy and Safety Stock Calculations] 
+[Inventory Policy and Safety Stock Calculations] 
 
-- ##### [Inventory Simulations]
+[Inventory Simulations]
 
-- ##### [Machine Learning for Supply Chian]
+[Machine Learning for Supply Chian]
 
-- ##### [Simulations for optimizing Capacity and Resources] 
+[Simulations for optimizing Capacity and Resources] 
 
 
 
