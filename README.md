@@ -123,9 +123,9 @@ Session 3, 4: Web crawling & scraping 1
 
 Session 5, 6: Web crawling & scraping 2
 
-Session 7, 8: Exercises- weather data/subway data
+Session 7, 8: Web crawling exercises using public weather data and subway transportation data
 
-Session 9, 10: MYSQL Server- MYSQL & Koa-server, MYSQL & R
+Session 9, 10: RDB: MYSQL Server- MYSQL & Koa-server, MYSQL & R
 
 Session 11, 12: NOSQL Database - elasticsearch/kibana: construct http requests and parse responses from elasticsearch
 
