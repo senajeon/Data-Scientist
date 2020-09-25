@@ -140,7 +140,10 @@ Session 15, 16: NOSQL Database - elasticsearch
 
 Session 1, 2: Introduction & Installation Hadoop on Linux 
 
-Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python and SQL  
+Session 3, 4: Change data in json and txt to Data Frame in PySpark using Python and SQL. 
+
+Laod data (500k rows, 70,000k columns) into pyspark and change the loaded data into python dataframe. 
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
