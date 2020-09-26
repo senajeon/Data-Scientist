@@ -67,7 +67,7 @@ Session 3, 4: [Training related technologies](https://colab.research.google.com/
 
 Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
-### *Business case 2*: Customer Segmentation (FMCG)  
+### *Business case 2*: Customer Analytics (FMCG)  
 
 Marketing Analytics conducted in Python using ML and DL. The step is to perform culster analysis and dimensionality reduction employing K-means and PCA. Next is Descriptive statistics to form hypotheses about the segments for the modeling- purchase probability, brand choice and purchase quantity. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0.
 
