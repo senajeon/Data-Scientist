@@ -176,9 +176,9 @@ Laod data (500k rows, 70,000k columns) into PySpark as rdd data type and change 
 
 
 ## *Project 1*: Pricing Prediction System
-: In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. 
+: In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. My first project is a fruit price prediction system and currently I'm working toward preprocessing stage. 
 
-[Project Plan](https://docs.google.com/presentation/d/1unMA3c-5Fx4YJIx2eLLlJ1lSFIa3YbeFJ9Pj4xsN3cU/edit#slide=id.gc6f80d1ff_0_0)
+[Pricing Analytics Project Plan](https://docs.google.com/presentation/d/1unMA3c-5Fx4YJIx2eLLlJ1lSFIa3YbeFJ9Pj4xsN3cU/edit#slide=id.gc6f80d1ff_0_0)
 
 ## *Project 2*: VRP (Vehicle Routing Problem) Optimization 
 : In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. I'm currently researching to design heuristics for VRP.  
