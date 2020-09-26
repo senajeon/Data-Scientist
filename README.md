@@ -175,7 +175,7 @@ Laod data (500k rows, 70,000k columns) into PySpark as rdd data type and change 
 [Simulations for optimizing Capacity and Resources] 
 
 ## *Final Project*: VRP (Vehicle Routing Problem) Optimization 
-: In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. I'm currently researching to design heuristics for VRP. 
+: In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. I'm currently researching to design heuristics for VRP.  
 
 
 
