@@ -1,6 +1,6 @@
 # Data-Scientist-Program 
 
-This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month intensive full-time offline Data Science Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020. All teaching faculty in this program holds Ph.D in Industrial Engineering from Korea University. Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
+This repository contains all the links to the Google Colab code review notebooks, slides, projects and other resources used in the 6-month intensive full-time offline Data Science Program (9-6, Mon-Fri) taught in collaboration with Korean Ministry of Science and ICT from June 2020 to December 2020. All teaching faculty in this program hold Ph.D in Industrial Engineering from Korea University. Topics include data manipulation, data visualization and data analytics. The programming languages used for this program are SQL, Python and R. 
 
 
 ## Course 1 Python 
@@ -25,7 +25,7 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 ### *Business case 1*: Stock Price Analysis  
 
-: Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topic includes RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
+: Financial Analysis conducted in Python using toolkits such as Pandas, NumPy, Matplotlib. Topics include RoR, Risks, Markowitz Efficient frontier, Capital asset pricing model, Monte Carlo Simulations, Black Scholes formula, etc. 
 
 [1. Stocks- RoR](https://colab.research.google.com/drive/1bg995tce8UTshT2lowAqHEZrNTOiBKmY)
 
@@ -69,7 +69,7 @@ Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.resea
 
 ### *Business case 2*: Customer Analytics (FMCG)  
 
-Marketing Analytics conducted in Python using ML and DL. The step is to perform culster analysis and dimensionality reduction employing K-means and PCA. Next is Descriptive statistics to form hypotheses about the segments for the modeling- purchase probability, brand choice and purchase quantity. The final step is to create feedforward neural network to predict customer behaviors using TensorFlow 2.0.
+Marketing Analytics conducted in Python using ML and DL. The first step is to perform culster analysis and dimensionality reduction employing K-means and PCA. The following step is using Descriptive statistics to form hypotheses about the segments for modeling- purchase probability, brand choice and purchase quantity. The final step is to create a feedforward neural network to predict customer behaviors using TensorFlow 2.0.
 
 [1. Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
 
@@ -140,9 +140,9 @@ Session 15, 16: NOSQL Database - elasticsearch
 
 Session 1, 2: Introduction & Installation Hadoop on Linux 
 
-Session 3, 4: Change data.json into python dataframe in PySpark using Python and SQL. 
+Session 3, 4: Converts data.json into python dataframe in PySpark using Python and SQL. 
 
-Laod data (500k rows, 70,000k columns) into PySpark as rdd data type and change the loaded data into python dataframe in order to use pyhton libraries. 
+Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change the loaded data into python dataframe in order to use pyhton libraries. 
 
 ## Course 7 Text Mining
 
@@ -150,7 +150,7 @@ Laod data (500k rows, 70,000k columns) into PySpark as rdd data type and change 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## *Final Business Case 6*: Supply Chain (upstream - downstream) Applicaitons 
-: Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segementation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming langauage is Python.
+: Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
 
 [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
 
@@ -176,9 +176,9 @@ Laod data (500k rows, 70,000k columns) into PySpark as rdd data type and change 
 
 
 ## *Project 1*: Pricing Prediction System
-: In order to complete this program, it's a mandatory for students to develop big data ideas and present a prototype in December. My first project is a fruit price prediction system and currently I'm working toward preprocessing stage. 
+: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My first project is a fruit price prediction system, and I'm currently working toward the pre-processing stage. This project will result in an accessible web page where users can predict fruit prices.
 
 [Pricing Analytics Project Plan](https://docs.google.com/presentation/d/1unMA3c-5Fx4YJIx2eLLlJ1lSFIa3YbeFJ9Pj4xsN3cU/edit#slide=id.gc6f80d1ff_0_0)
 
 ## *Project 2*: VRP (Vehicle Routing Problem) Optimization 
-: As my final project, I'm currently researching to design heuristics for VRP.  
+: For my final project, I'm researching design heuristics for VRP. This project will result in a heuristic algorithm report. 
