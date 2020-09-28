@@ -154,7 +154,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 [python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
 
-[Statistics in SCM](https://colab.research.google.com/drive/1aSd2MdBggoe2mBgrEJvZI69DpLiqyutv)
+[SCM Statistical Analysis](https://colab.research.google.com/drive/1aSd2MdBggoe2mBgrEJvZI69DpLiqyutv)
 
 [Product segmentations single and Multi-criteria]
 
