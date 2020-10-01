@@ -156,31 +156,14 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 [SCM Statistical Analysis](https://colab.research.google.com/drive/1aSd2MdBggoe2mBgrEJvZI69DpLiqyutv)
 
-[Product segmentations single and Multi-criteria]
-
-[Supplier segmentations]
-
-[Customers segmentations]
-
-[Forecasting techniques and accuracy testing]
-
-[Linear Programming and Logistics Optimizations]
-
-[Pricing and Markdowns Optimization Techniques]
-
-[Inventory Policy and Safety Stock Calculations] 
-
-[Inventory Simulations]
-
-[Machine Learning for Supply Chian]
-
-[Simulations for optimizing Capacity and Resources] 
+[Linear Programming and Logistics Optimizations](https://colab.research.google.com/drive/1M6ns9S0wwjxoyh0eUPunCwSMg-px85rU#scrollTo=y0fW0XbVN_s8)
 
 
-## *Project 1*: Pricing Prediction System
-: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My first project is a fruit price prediction system, and I'm currently working toward the pre-processing stage. This project will result in an accessible web page where users can predict fruit prices.
+
+## *Project 1*: VRP (Vehicle Routing Problem) Optimization 
+: For my final project, I'm researching design heuristics for VRP. This project will result in a heuristic algorithm report. 
+
+## *Project 2*: Pricing Prediction System
+: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My second project is a fruit price prediction system, and I'm currently working toward the data importing stage. This project will result in an accessible web page where users can predict fruit prices.
 
 [Pricing Analytics Project Plan](https://docs.google.com/presentation/d/1unMA3c-5Fx4YJIx2eLLlJ1lSFIa3YbeFJ9Pj4xsN3cU/edit#slide=id.gc6f80d1ff_0_0)
-
-## *Project 2*: VRP (Vehicle Routing Problem) Optimization 
-: For my final project, I'm researching design heuristics for VRP. This project will result in a heuristic algorithm report. 
