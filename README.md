@@ -161,7 +161,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 
 ## *Project 1*: VRP (Vehicle Routing Problem) Optimization 
-: For my final project, I'm researching design heuristics for VRP. This project will result in a heuristic algorithm report. 
+: For my final project, I'm researching design heuristics for VRP. This project will result in a heuristic algorithm report.  
 
 ## *Project 2*: Pricing Prediction System
 : In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My second project is a fruit price prediction system, and I'm currently working toward the data importing stage. This project will result in an accessible web page where users can predict fruit prices.
