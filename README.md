@@ -150,7 +150,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 ## *Final Business Case 6*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
 
-[python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
+[Python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
 
 [SCM Statistical Analysis](https://colab.research.google.com/drive/1aSd2MdBggoe2mBgrEJvZI69DpLiqyutv)
 
@@ -174,7 +174,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 [Simulations for optimizing Capacity and Resources]
 
-[VRP(Vehicle Routing Problem) Optimization]
+[VRP (Vehicle Routing Problem) Optimization]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
