@@ -147,8 +147,6 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 ## Course 7 Text Mining
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## *Final Business Case 6*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
 
@@ -156,14 +154,31 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 [SCM Statistical Analysis](https://colab.research.google.com/drive/1aSd2MdBggoe2mBgrEJvZI69DpLiqyutv)
 
+[Product segmentations single and Multi-criteria]
+
+[Supplier segmentations]
+
+[Customers segmentations]
+
+[Forecasting techniques and accuracy testing]
+
 [Linear Programming and Logistics Optimizations](https://colab.research.google.com/drive/1M6ns9S0wwjxoyh0eUPunCwSMg-px85rU#scrollTo=y0fW0XbVN_s8)
 
+[Pricing and Markdowns Optimization Techniques]
 
+[Inventory Policy and Safety Stock Calculations] 
 
-## *Project 1*: VRP (Vehicle Routing Problem) Optimization 
-: For my final project, I'm researching design heuristics for VRP. This project will result in a heuristic algorithm report.  
+[Inventory Simulations]
 
-## *Project 2*: Pricing Prediction System
-: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My second project is a fruit price prediction system, and I'm currently working toward the data importing stage. This project will result in an accessible web page where users can predict fruit prices.
+[Machine Learning for Supply Chian]
+
+[Simulations for optimizing Capacity and Resources]
+
+[VRP(Vehicle Routing Problem) Optimization]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## *Project*: Pricing Prediction System
+: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My project is a fruit price prediction system, and I'm currently working toward the data importing stage. This project will result in an accessible web page where users can predict fruit prices.
 
 [Pricing Analytics Project Plan](https://docs.google.com/presentation/d/1unMA3c-5Fx4YJIx2eLLlJ1lSFIa3YbeFJ9Pj4xsN3cU/edit#slide=id.gc6f80d1ff_0_0)
