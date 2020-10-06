@@ -82,7 +82,7 @@ Marketing Analytics conducted in Python using ML and DL. The first step is to pe
 
 ## Course 4 R 
 
-Session 1: Data analysis process  
+Session 1: Data analysis process   
 
 Session 2: [Lecture1.1](https://colab.research.google.com/drive/1Tw7gn4JhrWdBP114n3sXaE3GMJgWsOm2)
 
