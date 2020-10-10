@@ -141,7 +141,7 @@ Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case 
 
 Session 15, 16: NOSQL Database - elasticsearch 
 
-### *Business case 5*: elasticsearch Text Analysis 
+### *Business case 6*: elasticsearch Text Analysis 
 
 
 ## Course 6 Hadoop
@@ -155,7 +155,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 ## Course 7 Text Mining
 
 
-## *Final Business Case 6*: Supply Chain (upstream - downstream) Applicaitons 
+## *Final Business Case 7*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
 
 [Python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
