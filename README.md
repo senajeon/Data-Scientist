@@ -45,50 +45,7 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 [EAD model]
 
-
-## Course 2 Machine Learning 
-
-Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
-
-Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) 
-
-[Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
-
-[Unsupervised Learning - K means clustering, Hierarchical clustering, PCA](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
-
-Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
-
-Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu)
-
-[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
-
-Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
-
-
-## Course 3 Deep Learning 
-
-Session 1, 2: [Neural Network](https://colab.research.google.com/drive/10xE0DlLgEEmPDp0NFiDqxf4mO6rGPmO7)
-
-[Backpropagation](https://colab.research.google.com/drive/1JDQsPzCD8W-bojnsoMyKUC79fIjP7Y2c)
-
-Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn) 
-
-Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
-
-### *Business case 3*: Customer Analytics (FMCG)  
-
-Marketing Analytics conducted in Python using ML and DL. The first step is to perform culster analysis and dimensionality reduction employing K-means and PCA. The following step is using Descriptive statistics to form hypotheses about the segments for modeling- purchase probability, brand choice and purchase quantity. The final step is to create a feedforward neural network to predict customer behaviors using TensorFlow 2.0.
-
-[1. Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
-
-[2. Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
-
-[3. Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
-
-[4. Deep Learning for Conversion Prediction] 
-
-
-## Course 4 R 
+## Course 2 R 
 
 Session 1: Data analysis process   
 
@@ -111,16 +68,58 @@ Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1Qjh
 Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-### *Business case 4*: Regression
+### *Business case 3*: Regression
 
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-### *Business case 5*: Classification 
+### *Business case 4*: Classification 
 [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
+
+
+## Course 3 Machine Learning 
+
+Session 1, 2: [Simple, Multi-regression](https://colab.research.google.com/drive/1lOOGLjasUdmt0fcdIVQQWEYawvEeRfpv)
+
+Session 3, 4: [Supervised Learning - Classification - Logistics Regression,KNN I](https://colab.research.google.com/drive/1LoDrEItc0ymSvVJGPf1_GRU1HD2KnLHP) 
+
+[Supervised Learning - Classification - Logistics Regression,KNN II](https://colab.research.google.com/drive/1QtZxJPXaWNPBlP0fJndUAXtXm8DNYAhE) 
+
+[Unsupervised Learning - K means clustering, Hierarchical clustering, PCA](https://colab.research.google.com/drive/1lEmZEP8lApeC40Nd3m2vkbevf3iseGC4)
+
+Session 5, 6: [Predictive Analytics- Support Vector Machine, Decision Tree, RandomForest](https://colab.research.google.com/drive/18rgkVLqmiaTSNeqAYLXJuExFeh7PpZiq)
+
+Session 7, 8: [Unsupervised Learning](https://colab.research.google.com/drive/1x09-GI593uhgrW9-1Us1CHFt6Zgdaryu)
+
+[xboost](https://colab.research.google.com/drive/1rmZS1Bl0McIM9-M96GBtY-_iN5CQfqr2#scrollTo=UHZQnq_-arms)
+
+Session 9: [Classification Model Comparision](https://colab.research.google.com/drive/1fnoFpeGoyPM6gsC58j_pFWbsDZGIAGNj#scrollTo=8sIU-FD3oHFP)
+
+
+## Course 4 Deep Learning 
+
+Session 1, 2: [Neural Network](https://colab.research.google.com/drive/10xE0DlLgEEmPDp0NFiDqxf4mO6rGPmO7)
+
+[Backpropagation](https://colab.research.google.com/drive/1JDQsPzCD8W-bojnsoMyKUC79fIjP7Y2c)
+
+Session 3, 4: [Training related technologies](https://colab.research.google.com/drive/1aYmva_jjWyD5UeCHCuA8iAxEi3aHgOYn) 
+
+Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
+
+### *Business case 5*: Customer Analytics (FMCG)  
+
+Marketing Analytics conducted in Python using ML and DL. The first step is to perform culster analysis and dimensionality reduction employing K-means and PCA. The following step is using Descriptive statistics to form hypotheses about the segments for modeling- purchase probability, brand choice and purchase quantity. The final step is to create a feedforward neural network to predict customer behaviors using TensorFlow 2.0.
+
+[1. Segmentation: Hierarchical Clusteirng, K-Means Clustering, PCA](https://colab.research.google.com/drive/1-2kIfx3HJaa6LRCowGLsUk4A4EU05Pwz#scrollTo=cu11MrhsvhJQ)
+
+[2. Descriptive Statistics](https://colab.research.google.com/drive/1qe0LtgO1BDAiOb6UrBParTXutwBHqX5M)
+
+[3. Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
+
+[4. Deep Learning for Conversion Prediction] 
 
 
 ## Course 5 Data Technologies 
