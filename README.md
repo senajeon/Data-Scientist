@@ -37,6 +37,14 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 [5. Monte Carlo Simulations Analaysis](https://colab.research.google.com/drive/1xq7aExJpw0WJeYxzmSvJTgNgR67AnVKb)
 
+### *Business case 2*: Credit Risk
+
+[PD model](https://colab.research.google.com/drive/1QMn1pWp8etZXWE3swAFxGFF1oXSRdXd_)
+
+[LGD model]
+
+[EAD model]
+
 
 ## Course 2 Machine Learning 
 
@@ -67,7 +75,7 @@ Session 3, 4: [Training related technologies](https://colab.research.google.com/
 
 Session 5, 6: [Tensorflow - Natural Language and Sound Data](https://colab.research.google.com/drive/1t1X36bGZBzHhr_64Q1YzvkBLOsInH_5K#scrollTo=GO7sB2HUYQYk) 
 
-### *Business case 2*: Customer Analytics (FMCG)  
+### *Business case 3*: Customer Analytics (FMCG)  
 
 Marketing Analytics conducted in Python using ML and DL. The first step is to perform culster analysis and dimensionality reduction employing K-means and PCA. The following step is using Descriptive statistics to form hypotheses about the segments for modeling- purchase probability, brand choice and purchase quantity. The final step is to create a feedforward neural network to predict customer behaviors using TensorFlow 2.0.
 
@@ -103,13 +111,13 @@ Session 8: [Support Vector Machine](https://colab.research.google.com/drive/1Qjh
 Kaggle challenges
 [Titanic & Housing Prices Competition cases](https://colab.research.google.com/drive/1fdy9yqUYVOuRKgQCmFpbuRhYCnYa_kXk)
 
-### *Business case 3*: Regression
+### *Business case 4*: Regression
 
 [R for TransportEY assignment](https://colab.research.google.com/drive/1d0jfqrtZSD5Zk2A6Qx802bhI2FBzhnMi#scrollTo=yEx4m4lmDe-4) 
 
 [R for TransportEY case example](https://colab.research.google.com/drive/1rl5CuD6JvIjvzFhs-2OdrKw9uvmvNCGM)
 
-### *Business case 4*: Classification 
+### *Business case 5*: Classification 
 [R for Cognizant - Sportify case session 1: Data exploration and data preparation](https://colab.research.google.com/drive/1xTFBaoqvhaviLRf6bPslDpaMXvTsRVLK)
 
 [R for Cognizant - Sportify case session 2: Song genre classification](https://colab.research.google.com/drive/1apIwvmIWgPFEoNam9IHQtDRyFNyNuSwy)
