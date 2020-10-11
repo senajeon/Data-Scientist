@@ -41,11 +41,13 @@ Session 16 [Text Mining](https://colab.research.google.com/drive/1yWYjcXzx8cuEL1
 
 : Credit Risk Analysis conducted in Python using toolkits such as sklearn. Topics include PD, LGD and EAD models and the case finally provides a calculation of the complete Expected loss of a loan portfolio. The data is a consumer loan issued throught the 2007-2015 in the US. It is a matrix of about 890k observations and 75 variables. This is an actual real-world example sourced by Kaggle.
 
-[1. PD model](https://colab.research.google.com/drive/1QMn1pWp8etZXWE3swAFxGFF1oXSRdXd_)
+[Pre-processing](https://colab.research.google.com/drive/1QMn1pWp8etZXWE3swAFxGFF1oXSRdXd_#scrollTo=h1olR0tIaCbC)
 
-[2. LGD model]
+[PD model](https://colab.research.google.com/drive/1_EpIddB55q-HxPWXfaXyK1FgIeo6BOdK)
 
-[3. EAD model]
+[LGD model]
+
+[EAD model]
 
 ## Course 2 R 
 
