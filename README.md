@@ -157,6 +157,9 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 ## Course 7 Text Mining
 
+Session 1, 2: Introduction
+
+Session 3:
 
 ## *Final Business Case 7*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
