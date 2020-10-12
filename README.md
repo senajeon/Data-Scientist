@@ -159,7 +159,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 Session 1, 2: Introduction
 
-Session 3:
+Session 3: [LSTM Reuters news classification practice](https://colab.research.google.com/drive/1AfDb6tazffhsfu8HRRwK5KWDeCbCEVoN#scrollTo=KCtxQ8F-0sfc)
 
 ## *Final Business Case 7*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
