@@ -157,7 +157,7 @@ Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change
 
 Session 5, 6: ALS Recommendation 
 
-Loads movie ratings data- RDD.toDF (column name, column type) -> ALS model -> recommende motives, users
+Loads movie ratings data- RDD.toDF (column name, column type) -> ALS model -> recommends motives, users
 
 ## Course 7 Text Mining
 
