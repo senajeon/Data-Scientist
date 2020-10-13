@@ -197,6 +197,6 @@ Session 3: [LSTM Reuters news classification practice](https://colab.research.go
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## *Project*: Pricing Prediction System
-: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My project is a fruit price prediction system, and I'm currently working toward the data importing stage. This project will result in an accessible web page where users can predict fruit prices.
+: In order to complete this program, it's mandatory for students to develop big data ideas and present a prototype in December. My project is a price prediction system, and I'm currently working toward the data importing stage. This project will result in an accessible web page where users can predict fruit prices.
 
 [Pricing Analytics Project Plan](https://docs.google.com/presentation/d/1unMA3c-5Fx4YJIx2eLLlJ1lSFIa3YbeFJ9Pj4xsN3cU/edit#slide=id.gc6f80d1ff_0_0)
