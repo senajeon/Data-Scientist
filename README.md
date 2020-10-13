@@ -159,7 +159,7 @@ Session 5, 6: ALS Recommendation
 
 Loads movie ratings data- RDD.toDF (column name, column type) -> ALS model -> recommends motives, users
 
-## Course 7 Text Mining
+## Course 7 Natural Language Processing
 
 Session 1, 2: Introduction
 
