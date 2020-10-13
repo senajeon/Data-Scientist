@@ -147,13 +147,17 @@ Session 15, 16: NOSQL Database - elasticsearch
 ### *Business case 6*: elasticsearch Text Analysis 
 
 
-## Course 6 Hadoop
+## Course 6 Hadoop/Pyspark
 
 Session 1, 2: Introduction & Installation Hadoop on Linux 
 
 Session 3, 4: Converts data.json into python dataframe in PySpark using Python and SQL. 
 
 Laods data (500k rows, 70,000k columns) into PySpark as rdd data type and change the loaded data into python dataframe in order to use pyhton libraries. 
+
+Session 5, 6: ALS Recommendation 
+
+Loads movie ratings data- RDD.toDF (column name, column type) -> ALS model -> recommende motives, users
 
 ## Course 7 Text Mining
 
