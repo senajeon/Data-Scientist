@@ -164,6 +164,7 @@ Loads movie ratings data- RDD.toDF (column name, column type) -> ALS model -> re
 Session 1, 2: Introduction
 
 Session 3: [LSTM Reuters news classification practice](https://colab.research.google.com/drive/1AfDb6tazffhsfu8HRRwK5KWDeCbCEVoN#scrollTo=KCtxQ8F-0sfc)
+[tfidf](https://colab.research.google.com/drive/1rMl12-z1d9XDp84Vh1TkVKZj7VzE0LEE#scrollTo=5albOzrXih4Q)
 
 ## *Final Business Case 7*: Supply Chain (upstream - downstream) Applicaitons 
 : Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
