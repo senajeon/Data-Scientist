@@ -125,8 +125,6 @@ Marketing Analytics conducted in Python using ML and DL. The first step is to pe
 
 [3. Predictive Analysis -Price Elasticity and its impact on revenue: Modelling Purchase Incidence, Brand Choice, Purchase Quantity](https://colab.research.google.com/drive/1gbWrs6o6-MJSwAGkFN1OnYUvCEvC3RS9)
 
-[4. Deep Learning for Conversion Prediction] 
-
 
 ## Course 5 Data Technologies 
 
