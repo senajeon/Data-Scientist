@@ -144,8 +144,6 @@ Session 13, 14, 15: NOSQL Database - elasticsearch/logstash: data analysis case 
 
 Session 15, 16: NOSQL Database - elasticsearch 
 
-### *Business case 6*: elasticsearch Text Analysis 
-
 
 ## Course 6 Hadoop/Pyspark
 
