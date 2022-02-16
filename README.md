@@ -167,35 +167,6 @@ Session 3, 4: [LSTM Reuters news classification practice](https://colab.research
 
 [tfidf](https://colab.research.google.com/drive/1rMl12-z1d9XDp84Vh1TkVKZj7VzE0LEE#scrollTo=5albOzrXih4Q)
 
-## *Final Business Case 7*: Supply Chain (upstream - downstream) Applicaitons 
-: Supply Chain Data Science business case covering topics from upstream (Production Planning, Inventory Management, Logistics) to downstream (Forecasting, Segmentation, Pricing). The data tools used for this case are Excel and Spyder(python) and the programming language is Python.
-
-[Python practice](https://colab.research.google.com/drive/1TwD_YuHhTArlznBqCqw3whvuI1afbwvw#scrollTo=JSGg4ptWryTk)
-
-[SCM Statistical Analysis](https://colab.research.google.com/drive/1aSd2MdBggoe2mBgrEJvZI69DpLiqyutv)
-
-[Product segmentations single and Multi-criteria]
-
-[Supplier segmentations]
-
-[Customers segmentations]
-
-[Forecasting techniques and accuracy testing]
-
-[Linear Programming and Logistics Optimizations](https://colab.research.google.com/drive/1M6ns9S0wwjxoyh0eUPunCwSMg-px85rU#scrollTo=y0fW0XbVN_s8)
-
-[Pricing and Markdowns Optimization Techniques]
-
-[Inventory Policy and Safety Stock Calculations] 
-
-[Inventory Simulations]
-
-[Machine Learning for Supply Chian]
-
-[Simulations for optimizing Capacity and Resources]
-
-[VRP (Vehicle Routing Problem) Optimization]
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
