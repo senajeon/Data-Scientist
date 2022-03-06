@@ -146,14 +146,6 @@ Session 5, 6: ALS Recommendation
 
 Loads movie ratings data- RDD.toDF (column name, column type) -> ALS model -> recommends motives, users
 
-## Course 7 Natural Language Processing
-
-Session 1, 2: Introduction
-
-Session 3, 4: [LSTM Reuters news classification practice](https://colab.research.google.com/drive/1AfDb6tazffhsfu8HRRwK5KWDeCbCEVoN#scrollTo=KCtxQ8F-0sfc)
-
-[tfidf](https://colab.research.google.com/drive/1rMl12-z1d9XDp84Vh1TkVKZj7VzE0LEE#scrollTo=5albOzrXih4Q)
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
